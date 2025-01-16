@@ -16831,3 +16831,453 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.01.16-16.35.21:820][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
 [2025.01.16-16.35.21:827][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
 [2025.01.16-16.35.21:862][978]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.01.16-16.36.41:098][766]Cmd: SELECT NONE
+[2025.01.16-16.36.55:524][228]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.01.16-16.36.55:534][228]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.01.16-16.36.55:538][228]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.01.16-16.36.55:549][229]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.01.16-16.37.03:880][187]LogShaderCompilers: Display: ================================================
+[2025.01.16-16.37.03:880][187]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.16-16.37.03:880][187]LogShaderCompilers: Display: Total job queries 7,635, among them cache hits 40 (0.52%), DDC hits 0 (0.00%), Duplicates 1,361 (17.83%)
+[2025.01.16-16.37.03:880][187]LogShaderCompilers: Display: Tracking 6,234 distinct input hashes that result in 5,726 distinct outputs (91.85%)
+[2025.01.16-16.37.03:880][187]LogShaderCompilers: Display: RAM used: 123.68 MiB of 1.60 GiB budget. Usage: 7.55%
+[2025.01.16-16.37.03:880][187]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.16-16.37.03:880][187]LogShaderCompilers: Display: Shaders Compiled: 6,234
+[2025.01.16-16.37.03:880][187]LogShaderCompilers: Display: Jobs assigned 6,234, completed 6,234 (100%)
+[2025.01.16-16.37.03:880][187]LogShaderCompilers: Display: Average time worker was idle: 23.33 s
+[2025.01.16-16.37.03:880][187]LogShaderCompilers: Display: Time job spent in pending queue: average 191.26 s, longest 402.19 s
+[2025.01.16-16.37.03:880][187]LogShaderCompilers: Display: Job execution time: average 5.55 s, max 182.40 s
+[2025.01.16-16.37.03:880][187]LogShaderCompilers: Display: Job life time (pending + execution): average 196.81 s, max 533.84
+[2025.01.16-16.37.03:880][187]LogShaderCompilers: Display: Shader code size: average 32.101 KiB, min 2.082 KiB, max 166.172 KiB
+[2025.01.16-16.37.03:880][187]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 553.71 s
+[2025.01.16-16.37.03:880][187]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.91%
+[2025.01.16-16.37.03:880][187]LogShaderCompilers: Display: Jobs were issued in 685 batches (only local compilation was used), average 9.10 jobs/batch
+[2025.01.16-16.37.03:880][187]LogShaderCompilers: Display: Average processing rate: 11.26 jobs/sec
+[2025.01.16-16.37.03:880][187]LogShaderCompilers: Display: Total thread time: 3,424.628 s
+[2025.01.16-16.37.03:880][187]LogShaderCompilers: Display: Total thread preprocess time: 100.038 s
+[2025.01.16-16.37.03:880][187]LogShaderCompilers: Display: Percentage time preprocessing: 2.92%
+[2025.01.16-16.37.03:880][187]LogShaderCompilers: Display: Effective parallelization: 6.18 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.16-16.37.03:880][187]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.16-16.37.03:881][187]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 27.52 sec, max 72.47 sec, min 1.82 sec)
+[2025.01.16-16.37.03:881][187]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 5.82 sec, max 7.00 sec, min 3.90 sec)
+[2025.01.16-16.37.03:881][187]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled   16 times, average 4.06 sec, max 8.33 sec, min 1.42 sec)
+[2025.01.16-16.37.03:881][187]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyLQSkylight (compiled    1 times, average 2.96 sec, max 2.96 sec, min 2.96 sec)
+[2025.01.16-16.37.03:881][187]LogShaderCompilers: Display:          TBasePassCSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 2.61 sec, max 2.61 sec, min 2.61 sec)
+[2025.01.16-16.37.03:881][187]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.16-16.37.03:881][187]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 21.70% of total time (compiled   27 times, average 27.52 sec, max 72.47 sec, min 1.82 sec)
+[2025.01.16-16.37.03:881][187]LogShaderCompilers: Display:                                             FDeferredLightPS - 10.79% of total time (compiled  262 times, average 1.41 sec, max 3.23 sec, min 0.95 sec)
+[2025.01.16-16.37.03:881][187]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 5.19% of total time (compiled   96 times, average 1.85 sec, max 4.76 sec, min 1.15 sec)
+[2025.01.16-16.37.03:881][187]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 5.06% of total time (compiled   80 times, average 2.17 sec, max 5.00 sec, min 0.58 sec)
+[2025.01.16-16.37.03:881][187]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.15% of total time (compiled  144 times, average 0.99 sec, max 1.60 sec, min 0.31 sec)
+[2025.01.16-16.37.03:881][187]LogShaderCompilers: Display: === Material stats ===
+[2025.01.16-16.37.03:881][187]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.16-16.37.03:881][187]LogShaderCompilers: Display: Materials Translated:    127
+[2025.01.16-16.37.03:881][187]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.01.16-16.37.03:881][187]LogShaderCompilers: Display: Material Translation Only: 0.04 s (27%)
+[2025.01.16-16.37.03:881][187]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.01.16-16.37.03:881][187]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.01.16-16.37.03:881][187]LogShaderCompilers: Display: ================================================
+[2025.01.16-16.37.04:861][303]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Target
+[2025.01.16-16.37.04:872][303]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.01.16-16.37.13:906][355]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StudentWork/BP_Target.BP_Target
+[2025.01.16-16.37.27:864][955]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.01.16-16.38.10:602][371]LogStaticMesh: Display: Building static mesh SM_Crate (Required Memory Estimate: 0.214571 MB)...
+[2025.01.16-16.38.10:605][371]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/SciFi/SM_Crate) ...
+[2025.01.16-16.38.10:608][371]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/SciFi/SM_Crate.SM_Crate
+[2025.01.16-16.38.30:070][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.01.16-16.38.36:144][320]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/BP_Target.BP_Target_C
+[2025.01.16-16.38.36:144][320]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/BP_Target.BP_Target_C
+[2025.01.16-16.38.36:147][320]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/BP_Target.BP_Target as actor: BP_Target_C /Game/StartMap.StartMap:PersistentLevel.BP_Target_C_0
+[2025.01.16-16.38.36:148][320]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/BP_Target.BP_Target as actor: BP_Target_C /Game/StartMap.StartMap:PersistentLevel.BP_Target_C_0
+[2025.01.16-16.38.36:156][320]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.01.16-16.38.37:532][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.01.16-16.38.37:534][458]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2025.01.16-16.38.37:541][458]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/BP_Target.BP_Target_C
+[2025.01.16-16.38.37:541][458]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/BP_Target.BP_Target_C
+[2025.01.16-16.38.37:544][458]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/BP_Target.BP_Target as actor: BP_Target_C /Game/StartMap.StartMap:PersistentLevel.BP_Target_C_1
+[2025.01.16-16.38.37:545][458]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/BP_Target.BP_Target as actor: BP_Target_C /Game/StartMap.StartMap:PersistentLevel.BP_Target_C_1
+[2025.01.16-16.38.45:036][295]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.16-16.38.45:089][295]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Target] ([2] browsable assets)...
+[2025.01.16-16.38.45:097][295]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Target.BP_Target]
+[2025.01.16-16.38.45:097][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Target]
+[2025.01.16-16.38.45:102][295]LogSavePackage: Moving output files for package: /Game/StudentWork/BP_Target
+[2025.01.16-16.38.45:102][295]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Target11C0769540BDBF2C7BF12889A5E0A43B.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/BP_Target.uasset'
+[2025.01.16-16.38.45:112][295]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.587 ms (total: 1.40 sec)
+[2025.01.16-16.38.45:168][295]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.16-16.38.45:168][295]LogContentValidation: Enabled validators:
+[2025.01.16-16.38.45:168][295]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.16-16.38.45:168][295]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.16-16.38.45:168][295]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.16-16.38.45:168][295]LogContentValidation: Display: Validating asset /Game/StudentWork/BP_Target.BP_Target
+[2025.01.16-16.38.45:168][295]AssetCheck: /Game/StudentWork/BP_Target Validating asset
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: ================================================
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Total job queries 7,646, among them cache hits 49 (0.64%), DDC hits 0 (0.00%), Duplicates 1,361 (17.80%)
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Tracking 6,236 distinct input hashes that result in 5,728 distinct outputs (91.85%)
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: RAM used: 123.74 MiB of 1.60 GiB budget. Usage: 7.55%
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Shaders Compiled: 6,236
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Jobs assigned 6,236, completed 6,236 (100%)
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Average time worker was idle: 23.40 s
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Time job spent in pending queue: average 191.20 s, longest 402.19 s
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Job execution time: average 5.55 s, max 182.40 s
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Job life time (pending + execution): average 196.75 s, max 533.84
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Shader code size: average 32.102 KiB, min 2.082 KiB, max 166.172 KiB
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 555.15 s
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.91%
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Jobs were issued in 687 batches (only local compilation was used), average 9.08 jobs/batch
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Average processing rate: 11.23 jobs/sec
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Total thread time: 3,425.684 s
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Total thread preprocess time: 100.173 s
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Percentage time preprocessing: 2.92%
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Effective parallelization: 6.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 27.52 sec, max 72.47 sec, min 1.82 sec)
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 5.82 sec, max 7.00 sec, min 3.90 sec)
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled   16 times, average 4.06 sec, max 8.33 sec, min 1.42 sec)
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyLQSkylight (compiled    1 times, average 2.96 sec, max 2.96 sec, min 2.96 sec)
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display:          TBasePassCSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 2.61 sec, max 2.61 sec, min 2.61 sec)
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 21.69% of total time (compiled   27 times, average 27.52 sec, max 72.47 sec, min 1.82 sec)
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display:                                             FDeferredLightPS - 10.78% of total time (compiled  262 times, average 1.41 sec, max 3.23 sec, min 0.95 sec)
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 5.19% of total time (compiled   96 times, average 1.85 sec, max 4.76 sec, min 1.15 sec)
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 5.06% of total time (compiled   80 times, average 2.17 sec, max 5.00 sec, min 0.58 sec)
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.15% of total time (compiled  144 times, average 0.99 sec, max 1.60 sec, min 0.31 sec)
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: === Material stats ===
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Materials Translated:    127
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Material Translation Only: 0.04 s (27%)
+[2025.01.16-16.40.03:886][516]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.01.16-16.40.03:887][516]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.01.16-16.40.03:887][516]LogShaderCompilers: Display: ================================================
+[2025.01.16-16.40.34:162][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.01.16-16.40.34:169][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.16-16.40.34:263][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.01.16-16.40.34:312][ 79]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.01.16-16.40.34:313][ 79]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/StartMapC9C93DC34F90A654E39E52AC4D8CD763.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StartMap.umap'
+[2025.01.16-16.40.34:322][ 79]LogFileHelpers: All files are already saved.
+[2025.01.16-16.40.34:323][ 79]LogFileHelpers: Saving map 'StartMap' took 0.099
+[2025.01.16-16.40.34:323][ 79]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Projectile] ([2] browsable assets)...
+[2025.01.16-16.40.34:392][ 79]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Projectile.BP_Projectile]
+[2025.01.16-16.40.34:392][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Projectile]
+[2025.01.16-16.40.34:397][ 79]LogSavePackage: Moving output files for package: /Game/StudentWork/BP_Projectile
+[2025.01.16-16.40.34:399][ 79]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_ProjectileD77FD15B47C2418274C5C7A93C3AC964.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/BP_Projectile.uasset'
+[2025.01.16-16.40.34:400][ 79]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Target] ([2] browsable assets)...
+[2025.01.16-16.40.34:407][ 79]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Target.BP_Target]
+[2025.01.16-16.40.34:407][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Target]
+[2025.01.16-16.40.34:411][ 79]LogSavePackage: Moving output files for package: /Game/StudentWork/BP_Target
+[2025.01.16-16.40.34:412][ 79]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Target84DC1EE0416F302B9D0083B2525F7454.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/BP_Target.uasset'
+[2025.01.16-16.40.34:420][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 251.088 ms (total: 1.65 sec)
+[2025.01.16-16.40.34:471][ 79]LogContentValidation: Display: Starting to validate 3 assets
+[2025.01.16-16.40.34:471][ 79]LogContentValidation: Enabled validators:
+[2025.01.16-16.40.34:471][ 79]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.16-16.40.34:471][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.16-16.40.34:471][ 79]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.16-16.40.34:471][ 79]LogContentValidation: Display: Validating asset /Game/StartMap.StartMap
+[2025.01.16-16.40.34:471][ 79]AssetCheck: /Game/StartMap Validating asset
+[2025.01.16-16.40.34:471][ 79]LogContentValidation: Display: Validating asset /Game/StudentWork/BP_Projectile.BP_Projectile
+[2025.01.16-16.40.34:471][ 79]AssetCheck: /Game/StudentWork/BP_Projectile Validating asset
+[2025.01.16-16.40.34:471][ 79]LogContentValidation: Display: Validating asset /Game/StudentWork/BP_Target.BP_Target
+[2025.01.16-16.40.34:471][ 79]AssetCheck: /Game/StudentWork/BP_Target Validating asset
+[2025.01.16-16.40.37:208][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.01.16-16.44.14:838][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.01.16-16.44.14:842][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.16-16.44.14:905][298]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Projectile] ([2] browsable assets)...
+[2025.01.16-16.44.14:960][298]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Projectile.BP_Projectile]
+[2025.01.16-16.44.14:960][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Projectile]
+[2025.01.16-16.44.14:966][298]LogSavePackage: Moving output files for package: /Game/StudentWork/BP_Projectile
+[2025.01.16-16.44.14:967][298]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Projectile55B616E84C0CDF363D40948A954B4F06.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/BP_Projectile.uasset'
+[2025.01.16-16.44.14:968][298]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Target] ([2] browsable assets)...
+[2025.01.16-16.44.14:974][298]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Target.BP_Target]
+[2025.01.16-16.44.14:974][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Target]
+[2025.01.16-16.44.14:979][298]LogSavePackage: Moving output files for package: /Game/StudentWork/BP_Target
+[2025.01.16-16.44.14:980][298]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Target1F0551E44DCC69FA7AB0EBAAEC2BD275.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/BP_Target.uasset'
+[2025.01.16-16.44.14:987][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.448 ms (total: 1.79 sec)
+[2025.01.16-16.44.15:035][298]LogContentValidation: Display: Starting to validate 2 assets
+[2025.01.16-16.44.15:035][298]LogContentValidation: Enabled validators:
+[2025.01.16-16.44.15:035][298]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.16-16.44.15:035][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.16-16.44.15:035][298]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.16-16.44.15:035][298]LogContentValidation: Display: Validating asset /Game/StudentWork/BP_Projectile.BP_Projectile
+[2025.01.16-16.44.15:035][298]AssetCheck: /Game/StudentWork/BP_Projectile Validating asset
+[2025.01.16-16.44.15:035][298]LogContentValidation: Display: Validating asset /Game/StudentWork/BP_Target.BP_Target
+[2025.01.16-16.44.15:035][298]AssetCheck: /Game/StudentWork/BP_Target Validating asset
+[2025.01.16-16.45.35:353][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.01.16-16.45.35:359][775]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.16-16.45.35:421][775]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Projectile] ([2] browsable assets)...
+[2025.01.16-16.45.35:479][775]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Projectile.BP_Projectile]
+[2025.01.16-16.45.35:479][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Projectile]
+[2025.01.16-16.45.35:485][775]LogSavePackage: Moving output files for package: /Game/StudentWork/BP_Projectile
+[2025.01.16-16.45.35:486][775]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_ProjectileCA7B18674CEB1F5250E546AC8576793E.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/BP_Projectile.uasset'
+[2025.01.16-16.45.35:494][775]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.675 ms (total: 1.93 sec)
+[2025.01.16-16.45.35:555][775]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.16-16.45.35:555][775]LogContentValidation: Enabled validators:
+[2025.01.16-16.45.35:555][775]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.16-16.45.35:555][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.16-16.45.35:555][775]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.16-16.45.35:555][775]LogContentValidation: Display: Validating asset /Game/StudentWork/BP_Projectile.BP_Projectile
+[2025.01.16-16.45.35:555][775]AssetCheck: /Game/StudentWork/BP_Projectile Validating asset
+[2025.01.16-16.45.40:494][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.01.16-16.47.09:049][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.01.16-16.47.09:053][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.16-16.47.09:088][952]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Projectile] ([2] browsable assets)...
+[2025.01.16-16.47.09:142][952]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Projectile.BP_Projectile]
+[2025.01.16-16.47.09:142][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Projectile]
+[2025.01.16-16.47.09:148][952]LogSavePackage: Moving output files for package: /Game/StudentWork/BP_Projectile
+[2025.01.16-16.47.09:148][952]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_ProjectileE6FFE06B45131B4A26F40DA32FE77AA8.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/BP_Projectile.uasset'
+[2025.01.16-16.47.09:155][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.662 ms (total: 2.03 sec)
+[2025.01.16-16.47.09:185][952]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.16-16.47.09:185][952]LogContentValidation: Enabled validators:
+[2025.01.16-16.47.09:185][952]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.16-16.47.09:185][952]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.16-16.47.09:185][952]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.16-16.47.09:185][952]LogContentValidation: Display: Validating asset /Game/StudentWork/BP_Projectile.BP_Projectile
+[2025.01.16-16.47.09:185][952]AssetCheck: /Game/StudentWork/BP_Projectile Validating asset
+[2025.01.16-16.47.13:119][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.01.16-16.47.13:304][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.01.16-16.47.13:437][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.16-16.47.19:006][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.01.16-16.47.25:737][795]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.16-16.47.25:754][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.16-16.47.25:775][795]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.01.16-16.47.25:783][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008370s)
+[2025.01.16-16.47.25:783][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.008465s)
+[2025.01.16-16.47.25:801][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.01.16-16.47.25:803][795]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.16-16.47.25:805][795]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2025.01.16-16.47.25:817][795]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.01.16-16.47.25:817][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.16-16.47.25:817][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.16-16.47.25:817][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.16-16.47.25:817][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.16-16.47.25:817][795]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.16-16.47.25:817][795]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.16-16.47.25:817][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.16-16.47.25:817][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.16-16.47.25:817][795]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.16-16.47.25:817][795]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.16-16.47.25:817][795]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.16-16.47.25:819][795]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.16-16.47.25:845][795]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.01.16-16.47.25:845][795]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.16-16.47.25:845][795]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.16-16.47.25:845][795]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.16-16.47.25:846][795]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.01.16-16.47.25:846][795]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.01.16-16.47.25:847][795]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.01.16-16.47.25:847][795]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.01.16-16.47.25:847][795]LogInit: FAudioDevice initialized with ID 18.
+[2025.01.16-16.47.25:847][795]LogAudio: Display: Audio Device (ID: 18) registered with world 'StartMap'.
+[2025.01.16-16.47.25:847][795]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.01.16-16.47.25:850][795]LogLoad: Game class is 'MechGameMode_C'
+[2025.01.16-16.47.25:853][795]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.01.16-16.47.25
+[2025.01.16-16.47.25:854][795]LogWorld: Bringing up level for play took: 0.004067
+[2025.01.16-16.47.25:856][795]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.01.16-16.47.25:858][795]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.01.16-16.47.25:858][795]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.01.16-16.47.25:869][795]PIE: Server logged in
+[2025.01.16-16.47.25:869][795]PIE: Play in editor total start time 0.123 seconds.
+[2025.01.16-16.47.35:366][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.16-16.47.35:367][879]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.01.16-16.47.35:367][879]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-16.47.35:368][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-16.47.35:368][879]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.16-16.47.35:368][879]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.16-16.47.35:373][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.16-16.47.35:378][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-16.47.35:395][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.16-16.47.35:395][879]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.01.16-16.47.35:395][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.01.16-16.47.35:396][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.01.16-16.47.35:403][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.01.16-16.47.35:451][880]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.01.16-16.47.46:272][ 67]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.16-16.47.46:289][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.16-16.47.46:289][ 67]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.01.16-16.47.46:296][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008257s)
+[2025.01.16-16.47.46:297][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.008288s)
+[2025.01.16-16.47.46:311][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.01.16-16.47.46:313][ 67]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.16-16.47.46:314][ 67]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2025.01.16-16.47.46:325][ 67]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.01.16-16.47.46:325][ 67]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.16-16.47.46:325][ 67]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.16-16.47.46:325][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.16-16.47.46:325][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.16-16.47.46:326][ 67]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.16-16.47.46:326][ 67]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.16-16.47.46:326][ 67]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.16-16.47.46:326][ 67]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.16-16.47.46:326][ 67]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.16-16.47.46:326][ 67]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.16-16.47.46:326][ 67]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.16-16.47.46:328][ 67]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.16-16.47.46:351][ 67]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.01.16-16.47.46:351][ 67]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.16-16.47.46:351][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.16-16.47.46:351][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.16-16.47.46:352][ 67]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.01.16-16.47.46:352][ 67]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.01.16-16.47.46:353][ 67]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.01.16-16.47.46:353][ 67]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.01.16-16.47.46:353][ 67]LogInit: FAudioDevice initialized with ID 19.
+[2025.01.16-16.47.46:353][ 67]LogAudio: Display: Audio Device (ID: 19) registered with world 'StartMap'.
+[2025.01.16-16.47.46:353][ 67]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.01.16-16.47.46:355][ 67]LogLoad: Game class is 'MechGameMode_C'
+[2025.01.16-16.47.46:359][ 67]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.01.16-16.47.46
+[2025.01.16-16.47.46:360][ 67]LogWorld: Bringing up level for play took: 0.004061
+[2025.01.16-16.47.46:362][ 67]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.01.16-16.47.46:364][ 67]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.01.16-16.47.46:364][ 67]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.01.16-16.47.46:375][ 67]PIE: Server logged in
+[2025.01.16-16.47.46:376][ 67]PIE: Play in editor total start time 0.093 seconds.
+[2025.01.16-16.47.57:336][328]LogDerivedDataCache: C:/Users/a013971o/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.16-16.48.10:530][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.16-16.48.10:530][854]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.01.16-16.48.10:530][854]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-16.48.10:531][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-16.48.10:531][854]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.16-16.48.10:531][854]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.16-16.48.10:537][854]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.16-16.48.10:542][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-16.48.10:559][854]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.16-16.48.10:559][854]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.01.16-16.48.10:559][854]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.01.16-16.48.10:561][854]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.01.16-16.48.10:566][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.16-16.48.10:569][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.16-16.48.10:620][855]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.01.16-16.48.15:677][398]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.16-16.48.15:692][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.16-16.48.15:715][398]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.01.16-16.48.15:722][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007644s)
+[2025.01.16-16.48.15:722][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.007680s)
+[2025.01.16-16.48.15:735][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.16-16.48.15:738][398]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.16-16.48.15:739][398]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2025.01.16-16.48.15:751][398]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.01.16-16.48.15:751][398]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.16-16.48.15:751][398]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.16-16.48.15:751][398]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.16-16.48.15:751][398]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.16-16.48.15:751][398]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.16-16.48.15:751][398]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.16-16.48.15:751][398]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.16-16.48.15:751][398]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.16-16.48.15:751][398]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.16-16.48.15:751][398]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.16-16.48.15:751][398]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.16-16.48.15:753][398]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.16-16.48.15:774][398]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.01.16-16.48.15:775][398]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.16-16.48.15:775][398]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.16-16.48.15:775][398]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.16-16.48.15:775][398]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.01.16-16.48.15:775][398]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.01.16-16.48.15:777][398]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.01.16-16.48.15:777][398]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.01.16-16.48.15:777][398]LogInit: FAudioDevice initialized with ID 20.
+[2025.01.16-16.48.15:777][398]LogAudio: Display: Audio Device (ID: 20) registered with world 'StartMap'.
+[2025.01.16-16.48.15:777][398]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.01.16-16.48.15:781][398]LogLoad: Game class is 'MechGameMode_C'
+[2025.01.16-16.48.15:785][398]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.01.16-16.48.15
+[2025.01.16-16.48.15:785][398]LogWorld: Bringing up level for play took: 0.004036
+[2025.01.16-16.48.15:787][398]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.01.16-16.48.15:788][398]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.01.16-16.48.15:789][398]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.01.16-16.48.15:800][398]PIE: Server logged in
+[2025.01.16-16.48.15:800][398]PIE: Play in editor total start time 0.114 seconds.
+[2025.01.16-16.48.21:310][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.16-16.48.21:310][ 21]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.01.16-16.48.21:310][ 21]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-16.48.21:311][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-16.48.21:311][ 21]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.16-16.48.21:311][ 21]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.16-16.48.21:315][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.16-16.48.21:320][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-16.48.21:336][ 21]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.16-16.48.21:336][ 21]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.01.16-16.48.21:336][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.01.16-16.48.21:336][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.01.16-16.48.21:342][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.16-16.48.21:347][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.01.16-16.48.21:397][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.01.16-16.51.14:004][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.01.16-16.51.14:054][825]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StartMap_Auto3
+[2025.01.16-16.51.14:055][825]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/StartMap_Auto365471A4340DBF7C7E0940EBC9008592F.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StartMap_Auto3.umap'
+[2025.01.16-16.51.14:057][825]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StartMap_Auto3.umap is in the /Temp path, will not scan.
+[2025.01.16-16.51.14:057][825]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartMap' took 0.067
+[2025.01.16-16.51.14:057][825]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.067
+[2025.01.16-17.01.05:924][184]LogEditorViewport: Clicking Background
+[2025.01.16-17.01.06:933][288]LogEditorViewport: Clicking Background
+[2025.01.16-17.03.54:901][482]LogEditorViewport: Clicking Background
+[2025.01.16-17.04.05:593][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.01.16-17.04.05:645][456]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StartMap_Auto4
+[2025.01.16-17.04.05:645][456]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/StartMap_Auto465C4710F451405051A2F2180D0646A2E.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StartMap_Auto4.umap'
+[2025.01.16-17.04.05:646][456]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StartMap_Auto4.umap is in the /Temp path, will not scan.
+[2025.01.16-17.04.05:648][456]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartMap' took 0.072
+[2025.01.16-17.04.05:648][456]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.072
+[2025.01.16-17.04.09:609][826]LogEditorViewport: Clicking Background
+[2025.01.16-17.05.15:514][811]LogSlate: Window 'Create Merged Actor' being destroyed
+[2025.01.16-17.05.15:590][811]LogStaticMesh: Display: Building static mesh SM_MERGED_PointLight_56 (Required Memory Estimate: 0.432847 MB)...
+[2025.01.16-17.05.15:609][811]LogStaticMesh: Built static mesh [0.02s] /Game/StudentWork/SM_MERGED_PointLight_56.SM_MERGED_PointLight_56
+[2025.01.16-17.05.31:428][580]LogEditorViewport: Clicking Background
+[2025.01.16-17.05.44:468][970]Cmd: TRANSACTION UNDO
+[2025.01.16-17.05.44:469][970]LogEditorTransaction: Undo Move Elements
+[2025.01.16-17.05.46:257][ 88]LogEditorViewport: Clicking Background
+[2025.01.16-17.05.50:455][512]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StudentWork/SM_MERGED_PointLight_56.SM_MERGED_PointLight_56
+[2025.01.16-17.05.50:459][512]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StudentWork/SM_MERGED_PointLight_56.SM_MERGED_PointLight_56
+[2025.01.16-17.05.50:460][512]LogActorFactory: Actor Factory spawned StaticMesh /Game/StudentWork/SM_MERGED_PointLight_56.SM_MERGED_PointLight_56 as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_36
+[2025.01.16-17.06.00:033][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.01.16-17.06.00:036][503]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.01.16-17.06.00:042][503]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StudentWork/SM_MERGED_PointLight_56.SM_MERGED_PointLight_56
+[2025.01.16-17.06.00:042][503]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StudentWork/SM_MERGED_PointLight_56.SM_MERGED_PointLight_56
+[2025.01.16-17.06.00:044][503]LogActorFactory: Actor Factory spawned StaticMesh /Game/StudentWork/SM_MERGED_PointLight_56.SM_MERGED_PointLight_56 as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_38
+[2025.01.16-17.06.27:610][543]Cmd: DELETE
+[2025.01.16-17.06.27:610][543]Cmd: ACTOR DELETE
+[2025.01.16-17.06.27:613][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.16-17.06.27:632][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.16-17.06.27:635][543]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.01.16-17.08.03:361][404]Cmd: DELETE
+[2025.01.16-17.08.03:361][404]Cmd: ACTOR DELETE
+[2025.01.16-17.08.03:365][404]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.01.16-17.08.03:384][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.01.16-17.08.03:388][404]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.01.16-17.08.10:249][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.01.16-17.08.10:255][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.16-17.08.10:339][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.01.16-17.08.10:400][219]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.01.16-17.08.10:401][219]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/StartMapF93EE6DF44A7CC999E75B98FC7133B3E.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StartMap.umap'
+[2025.01.16-17.08.10:414][219]LogFileHelpers: All files are already saved.
+[2025.01.16-17.08.10:414][219]LogFileHelpers: Saving map 'StartMap' took 0.120
+[2025.01.16-17.08.10:414][219]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StudentWork/SM_MERGED_PointLight_56] ([1] browsable assets)...
+[2025.01.16-17.08.10:459][219]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StudentWork/SM_MERGED_PointLight_56.SM_MERGED_PointLight_56]
+[2025.01.16-17.08.10:459][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/SM_MERGED_PointLight_56]
+[2025.01.16-17.08.10:465][219]LogSavePackage: Moving output files for package: /Game/StudentWork/SM_MERGED_PointLight_56
+[2025.01.16-17.08.10:465][219]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/SM_MERGED_PointLight_5630DCF6C64C62DF6485EA9180953055C9.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/SM_MERGED_PointLight_56.uasset'
+[2025.01.16-17.08.10:471][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 217.043 ms (total: 2.25 sec)
+[2025.01.16-17.08.10:507][219]LogContentValidation: Display: Starting to validate 2 assets
+[2025.01.16-17.08.10:508][219]LogContentValidation: Enabled validators:
+[2025.01.16-17.08.10:508][219]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.16-17.08.10:508][219]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.16-17.08.10:508][219]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.16-17.08.10:508][219]LogContentValidation: Display: Validating asset /Game/StartMap.StartMap
+[2025.01.16-17.08.10:508][219]AssetCheck: /Game/StartMap Validating asset
+[2025.01.16-17.08.10:508][219]LogContentValidation: Display: Validating asset /Game/StudentWork/SM_MERGED_PointLight_56.SM_MERGED_PointLight_56
+[2025.01.16-17.08.10:508][219]AssetCheck: /Game/StudentWork/SM_MERGED_PointLight_56 Validating asset
+[2025.01.16-17.08.56:104][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.01.16-17.08.56:109][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.16-17.08.56:202][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.01.16-17.08.56:259][ 26]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.01.16-17.08.56:260][ 26]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/StartMap7406F03148275844692B9EB4E19CCDF1.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StartMap.umap'
+[2025.01.16-17.08.56:267][ 26]LogFileHelpers: All files are already saved.
+[2025.01.16-17.08.56:267][ 26]LogFileHelpers: Saving map 'StartMap' took 0.106
+[2025.01.16-17.08.56:283][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 174.425 ms (total: 2.42 sec)
+[2025.01.16-17.08.56:342][ 26]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.16-17.08.56:342][ 26]LogContentValidation: Enabled validators:
+[2025.01.16-17.08.56:342][ 26]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.16-17.08.56:342][ 26]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.16-17.08.56:342][ 26]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.16-17.08.56:342][ 26]LogContentValidation: Display: Validating asset /Game/StartMap.StartMap
+[2025.01.16-17.08.56:342][ 26]AssetCheck: /Game/StartMap Validating asset
