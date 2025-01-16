@@ -7,9 +7,10 @@
 			"files": [
 				"C:/Users/a013971o/Mechanics/Content/StartMap.umap",
 				"C:/Users/a013971o/Mechanics/Content/Meshes/SciFi/Rock_Skull.uasset",
-				"C:/Users/a013971o/Mechanics/Content/StudentWork/SM_Lamp1.uasset",
 				"C:/Users/a013971o/Mechanics/Content/StudentWork/flashing_lamp.uasset",
 				"C:/Users/a013971o/Mechanics/Content/StudentWork/flashing.uasset",
+				"C:/Users/a013971o/Mechanics/Content/StudentWork/BP_Projectile.uasset",
+				"C:/Users/a013971o/Mechanics/Content/StudentWork/SM_Lamp1.uasset",
 				"C:/Unreal Projects/Mechanics/Content/Blueprints/MechGameMode.uasset",
 				"C:/Unreal Projects/Mechanics/Content/Blueprints/IA_Move.uasset",
 				"C:/Unreal Projects/Mechanics/Content/Blueprints/NewInputMappingContext.uasset",
