@@ -16651,3 +16651,72 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.01.16-16.30.27:220][593]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.16-16.30.27:220][593]LogContentValidation: Display: Validating asset /Game/StartMap.StartMap
 [2025.01.16-16.30.27:220][593]AssetCheck: /Game/StartMap Validating asset
+[2025.01.16-16.32.20:079][451]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.16-16.32.20:133][451]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Projectile] ([2] browsable assets)...
+[2025.01.16-16.32.20:192][451]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Projectile.BP_Projectile]
+[2025.01.16-16.32.20:192][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Projectile]
+[2025.01.16-16.32.20:197][451]LogSavePackage: Moving output files for package: /Game/StudentWork/BP_Projectile
+[2025.01.16-16.32.20:197][451]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Projectile2F19268B44FC5814075DD2B954D083B1.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/BP_Projectile.uasset'
+[2025.01.16-16.32.20:204][451]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.078 ms (total: 1.32 sec)
+[2025.01.16-16.32.20:268][451]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.16-16.32.20:268][451]LogContentValidation: Enabled validators:
+[2025.01.16-16.32.20:268][451]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.16-16.32.20:268][451]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.16-16.32.20:268][451]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.16-16.32.20:268][451]LogContentValidation: Display: Validating asset /Game/StudentWork/BP_Projectile.BP_Projectile
+[2025.01.16-16.32.20:268][451]AssetCheck: /Game/StudentWork/BP_Projectile Validating asset
+[2025.01.16-16.32.35:666][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.01.16-16.32.37:905][527]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.16-16.32.37:921][527]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.16-16.32.37:948][527]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.01.16-16.32.37:956][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008744s)
+[2025.01.16-16.32.37:956][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.008801s)
+[2025.01.16-16.32.37:973][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.01.16-16.32.37:973][527]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.16-16.32.37:974][527]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2025.01.16-16.32.37:986][527]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.01.16-16.32.37:986][527]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.16-16.32.37:986][527]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.16-16.32.37:986][527]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.16-16.32.37:986][527]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.16-16.32.37:986][527]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.16-16.32.37:986][527]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.16-16.32.37:986][527]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.16-16.32.37:986][527]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.16-16.32.37:986][527]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.16-16.32.37:986][527]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.16-16.32.37:986][527]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.16-16.32.37:988][527]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.16-16.32.38:009][527]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.01.16-16.32.38:011][527]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.16-16.32.38:011][527]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.16-16.32.38:011][527]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.16-16.32.38:011][527]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.01.16-16.32.38:011][527]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.01.16-16.32.38:013][527]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.01.16-16.32.38:013][527]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.01.16-16.32.38:013][527]LogInit: FAudioDevice initialized with ID 15.
+[2025.01.16-16.32.38:013][527]LogAudio: Display: Audio Device (ID: 15) registered with world 'StartMap'.
+[2025.01.16-16.32.38:013][527]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.01.16-16.32.38:016][527]LogLoad: Game class is 'MechGameMode_C'
+[2025.01.16-16.32.38:019][527]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.01.16-16.32.38
+[2025.01.16-16.32.38:020][527]LogWorld: Bringing up level for play took: 0.004048
+[2025.01.16-16.32.38:022][527]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.01.16-16.32.38:025][527]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.01.16-16.32.38:025][527]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.01.16-16.32.38:040][527]PIE: Server logged in
+[2025.01.16-16.32.38:042][527]PIE: Play in editor total start time 0.126 seconds.
+[2025.01.16-16.32.52:389][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.16-16.32.52:389][163]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.01.16-16.32.52:389][163]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-16.32.52:390][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-16.32.52:390][163]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.16-16.32.52:391][163]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.16-16.32.52:393][163]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.16-16.32.52:397][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-16.32.52:410][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.16-16.32.52:410][163]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.01.16-16.32.52:410][163]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.01.16-16.32.52:412][163]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.01.16-16.32.52:420][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.01.16-16.32.52:486][165]LogPlayLevel: Display: Destroying online subsystem :Context_21
