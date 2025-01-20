@@ -3228,3 +3228,80 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.01.20-18.49.11:022][306]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11128.012695
 [2025.01.20-18.49.12:018][309]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.01.20-18.49.12:018][309]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11128.679688, Update Interval: 311.230194
+[2025.01.20-18.54.43:564][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.01.20-18.54.45:432][524]LogSlate: Window 'Save Content' being destroyed
+[2025.01.20-18.54.45:437][524]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2025.01.20-18.54.45:437][524]PIE: Warning: PIE failed because map save was canceled
+[2025.01.20-18.54.48:012][659]LogSlate: Window 'Message Log' being destroyed
+[2025.01.20-18.54.48:017][659]LogSlate: Window 'Message Log' being destroyed
+[2025.01.20-18.54.51:746][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.20-18.54.51:746][ 33]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.01.20-18.54.51:760][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014666s)
+[2025.01.20-18.54.51:760][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.014712s)
+[2025.01.20-18.54.51:776][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.01.20-18.54.51:778][ 33]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.01.20-18.54.51:779][ 33]LogPlayLevel: PIE: World Init took: (0.001098s)
+[2025.01.20-18.54.51:787][ 33]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.01.20-18.54.51:788][ 33]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.20-18.54.51:788][ 33]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.20-18.54.51:788][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.20-18.54.51:788][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.20-18.54.51:788][ 33]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.20-18.54.51:788][ 33]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.20-18.54.51:788][ 33]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.20-18.54.51:788][ 33]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.20-18.54.51:788][ 33]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.20-18.54.51:788][ 33]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.20-18.54.51:788][ 33]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.20-18.54.51:790][ 33]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.20-18.54.51:822][ 33]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.01.20-18.54.51:822][ 33]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.20-18.54.51:822][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.20-18.54.51:822][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.20-18.54.51:823][ 33]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.01.20-18.54.51:823][ 33]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.01.20-18.54.51:825][ 33]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.01.20-18.54.51:825][ 33]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.01.20-18.54.51:825][ 33]LogInit: FAudioDevice initialized with ID 23.
+[2025.01.20-18.54.51:825][ 33]LogAudio: Display: Audio Device (ID: 23) registered with world 'StartMap'.
+[2025.01.20-18.54.51:825][ 33]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.01.20-18.54.51:827][ 33]LogLoad: Game class is 'MechGameMode_C'
+[2025.01.20-18.54.51:836][ 33]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.01.20-18.54.51
+[2025.01.20-18.54.51:836][ 33]LogWorld: Bringing up level for play took: 0.008278
+[2025.01.20-18.54.51:838][ 33]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2025.01.20-18.54.51:840][ 33]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.01.20-18.54.51:840][ 33]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.01.20-18.54.51:849][ 33]PIE: Server logged in
+[2025.01.20-18.54.51:851][ 33]PIE: Play in editor total start time 0.111 seconds.
+[2025.01.20-18.54.58:590][617]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11475.641602
+[2025.01.20-18.54.58:727][628]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-18.54.58:727][628]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11475.767578, Update Interval: 304.737091
+[2025.01.20-18.55.14:030][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-18.55.14:030][807]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.01.20-18.55.14:030][807]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.20-18.55.14:032][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-18.55.14:032][807]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.20-18.55.14:033][807]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.20-18.55.14:040][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.20-18.55.14:045][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.20-18.55.14:064][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.20-18.55.14:065][807]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.01.20-18.55.14:065][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.01.20-18.55.14:066][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.01.20-18.55.14:075][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.01.20-18.55.14:132][808]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.01.20-18.55.18:007][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.01.20-18.55.18:013][131]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.20-18.55.18:112][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.01.20-18.55.18:211][131]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.01.20-18.55.18:211][131]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/StartMap3C713C4C4A1A38235F5FA7BFF13992DA.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StartMap.umap'
+[2025.01.20-18.55.18:220][131]LogFileHelpers: All files are already saved.
+[2025.01.20-18.55.18:220][131]LogFileHelpers: Saving map 'StartMap' took 0.152
+[2025.01.20-18.55.18:235][131]LogFileHelpers: InternalPromptForCheckoutAndSave took 221.430 ms (total: 2.99 sec)
+[2025.01.20-18.55.18:286][131]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.20-18.55.18:286][131]LogContentValidation: Enabled validators:
+[2025.01.20-18.55.18:286][131]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.20-18.55.18:286][131]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.20-18.55.18:286][131]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.20-18.55.18:286][131]LogContentValidation: Display: Validating asset /Game/StartMap.StartMap
+[2025.01.20-18.55.18:286][131]AssetCheck: /Game/StartMap Validating asset
