@@ -1876,3 +1876,5 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.02.03-15.08.00:176][501]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
 [2025.02.03-15.08.00:188][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
 [2025.02.03-15.08.00:230][502]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.02.03-15.08.58:339][891]LogEditorViewport: Clicking Background
+[2025.02.03-15.19.35:354][889]LogDerivedDataCache: C:/Users/a013971o/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
