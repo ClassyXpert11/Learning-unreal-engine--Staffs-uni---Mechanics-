@@ -2501,3 +2501,372 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.02.10-16.34.12:343][390]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.10-16.34.12:343][390]LogContentValidation: Display: Validating asset /Game/StudentWork/BP_Enemy_Parent.BP_Enemy_Parent
 [2025.02.10-16.34.12:343][390]AssetCheck: /Game/StudentWork/BP_Enemy_Parent Validating asset
+[2025.02.10-16.34.54:038][981]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4990.310059
+[2025.02.10-16.34.55:039][984]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-16.34.55:040][985]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4990.976562, Update Interval: 325.049591
+[2025.02.10-16.37.53:022][  0]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.02.10-16.37.53:022][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.10-16.37.53:095][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.02.10-16.39.18:817][ 12]LogEditorTransaction: Undo Resize Node
+[2025.02.10-16.41.00:366][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.02.10-16.41.00:370][710]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartMap' took 0.020
+[2025.02.10-16.41.00:370][710]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Enemy_Parent] ([2] browsable assets)...
+[2025.02.10-16.41.00:446][710]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Enemy_Parent.BP_Enemy_Parent]
+[2025.02.10-16.41.00:446][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Enemy_Parent]
+[2025.02.10-16.41.00:458][710]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StudentWork/BP_Enemy_Parent_Auto5
+[2025.02.10-16.41.00:458][710]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Enemy_Parent_Auto5DC772C1A43A8E531C1C7AAAE6476565F.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StudentWork/BP_Enemy_Parent_Auto5.uasset'
+[2025.02.10-16.41.00:461][710]LogFileHelpers: Auto-saving content packages took 0.091
+[2025.02.10-16.41.12:120][ 85]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5368.424805
+[2025.02.10-16.41.12:237][ 99]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-16.41.12:237][100]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5368.532715, Update Interval: 356.326782
+[2025.02.10-16.45.21:462][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.10-16.45.21:519][410]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Enemy_Parent] ([2] browsable assets)...
+[2025.02.10-16.45.21:591][410]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Enemy_Parent.BP_Enemy_Parent]
+[2025.02.10-16.45.21:591][410]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Enemy_Parent]
+[2025.02.10-16.45.21:602][410]LogSavePackage: Moving output files for package: /Game/StudentWork/BP_Enemy_Parent
+[2025.02.10-16.45.21:603][410]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Enemy_Parent77B275E5472FA8FA30C68DBB45141C05.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/BP_Enemy_Parent.uasset'
+[2025.02.10-16.45.21:612][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.916 ms (total: 2.19 sec)
+[2025.02.10-16.45.21:670][410]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.10-16.45.21:670][410]LogContentValidation: Enabled validators:
+[2025.02.10-16.45.21:670][410]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.10-16.45.21:670][410]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.10-16.45.21:670][410]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.10-16.45.21:670][410]LogContentValidation: Display: Validating asset /Game/StudentWork/BP_Enemy_Parent.BP_Enemy_Parent
+[2025.02.10-16.45.21:670][410]AssetCheck: /Game/StudentWork/BP_Enemy_Parent Validating asset
+[2025.02.10-16.45.23:000][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.02.10-16.46.13:904][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.10-16.46.13:937][533]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Enemy_Parent] ([2] browsable assets)...
+[2025.02.10-16.46.14:011][533]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Enemy_Parent.BP_Enemy_Parent]
+[2025.02.10-16.46.14:011][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Enemy_Parent]
+[2025.02.10-16.46.14:021][533]LogSavePackage: Moving output files for package: /Game/StudentWork/BP_Enemy_Parent
+[2025.02.10-16.46.14:022][533]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Enemy_Parent2155197C4C2EE3CF19DDFC86967CC2B1.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/BP_Enemy_Parent.uasset'
+[2025.02.10-16.46.14:030][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.442 ms (total: 2.32 sec)
+[2025.02.10-16.46.14:085][533]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.10-16.46.14:085][533]LogContentValidation: Enabled validators:
+[2025.02.10-16.46.14:085][533]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.10-16.46.14:085][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.10-16.46.14:085][533]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.10-16.46.14:085][533]LogContentValidation: Display: Validating asset /Game/StudentWork/BP_Enemy_Parent.BP_Enemy_Parent
+[2025.02.10-16.46.14:085][533]AssetCheck: /Game/StudentWork/BP_Enemy_Parent Validating asset
+[2025.02.10-16.46.16:074][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.02.10-16.48.06:792][984]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5783.121094
+[2025.02.10-16.48.06:901][997]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-16.48.06:901][998]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5783.220215, Update Interval: 328.940704
+[2025.02.10-16.51.00:826][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.02.10-16.51.00:828][453]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartMap' took 0.020
+[2025.02.10-16.51.00:828][453]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Enemy_Random_Mover] ([2] browsable assets)...
+[2025.02.10-16.51.00:918][453]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Enemy_Random_Mover.BP_Enemy_Random_Mover]
+[2025.02.10-16.51.00:918][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Enemy_Random_Mover]
+[2025.02.10-16.51.00:926][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StudentWork/BP_Enemy_Random_Mover_Auto6
+[2025.02.10-16.51.00:926][453]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Enemy_Random_Mover_Auto62920D0454D6A4A83B6E4E4AE53179619.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StudentWork/BP_Enemy_Random_Mover_Auto6.uasset'
+[2025.02.10-16.51.00:928][453]LogFileHelpers: Auto-saving content packages took 0.100
+[2025.02.10-16.51.52:969][843]LogEditorTransaction: Undo Add Component
+[2025.02.10-16.51.58:180][410]LogEditorTransaction: Undo Split Struct Pin
+[2025.02.10-16.51.59:264][482]LogEditorTransaction: Undo Change Class Pin Value
+[2025.02.10-16.52.00:093][572]LogEditorTransaction: Undo Move Node
+[2025.02.10-16.54.11:061][993]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6147.272461
+[2025.02.10-16.54.11:178][  7]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-16.54.11:178][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6147.381348, Update Interval: 351.657471
+[2025.02.10-16.54.42:341][696]LogBlueprint: Error: [AssetLog] C:\Users\a013971o\Documents\GitHub\Learning-unreal-engine--Staffs-uni---Mechanics-\Content\StudentWork\BP_Enemy_Random_Mover.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2025.02.10-16.54.42:437][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.02.10-16.54.53:283][863]LogEditorTransaction: Undo Rename Component Variable
+[2025.02.10-17.01.00:225][475]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6556.428711
+[2025.02.10-17.01.00:368][492]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-17.01.00:368][493]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6556.562500, Update Interval: 359.580688
+[2025.02.10-17.01.00:982][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.02.10-17.01.00:987][558]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartMap' took 0.025
+[2025.02.10-17.01.00:987][558]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Enemy_Parent] ([2] browsable assets)...
+[2025.02.10-17.01.01:064][558]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Enemy_Parent.BP_Enemy_Parent]
+[2025.02.10-17.01.01:064][558]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Enemy_Parent]
+[2025.02.10-17.01.01:074][558]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StudentWork/BP_Enemy_Parent_Auto7
+[2025.02.10-17.01.01:074][558]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Enemy_Parent_Auto73A8A064541302032C12A95801C501A04.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StudentWork/BP_Enemy_Parent_Auto7.uasset'
+[2025.02.10-17.01.01:076][558]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Enemy_Random_Mover] ([2] browsable assets)...
+[2025.02.10-17.01.01:085][558]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Enemy_Random_Mover.BP_Enemy_Random_Mover]
+[2025.02.10-17.01.01:085][558]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Enemy_Random_Mover]
+[2025.02.10-17.01.01:094][558]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StudentWork/BP_Enemy_Random_Mover_Auto7
+[2025.02.10-17.01.01:094][558]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Enemy_Random_Mover_Auto7C79FB9294D50E903E1840E83227B7A4D.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StudentWork/BP_Enemy_Random_Mover_Auto7.uasset'
+[2025.02.10-17.01.01:095][558]LogFileHelpers: Auto-saving content packages took 0.108
+[2025.02.10-17.05.30:740][650]LogDerivedDataCache: C:/Users/a013971o/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.10-17.05.47:092][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.10-17.05.47:148][484]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Enemy_Random_Mover] ([2] browsable assets)...
+[2025.02.10-17.05.47:222][484]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Enemy_Random_Mover.BP_Enemy_Random_Mover]
+[2025.02.10-17.05.47:222][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Enemy_Random_Mover]
+[2025.02.10-17.05.47:229][484]LogSavePackage: Moving output files for package: /Game/StudentWork/BP_Enemy_Random_Mover
+[2025.02.10-17.05.47:230][484]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Enemy_Random_MoverEBDE9BB943348BAC0C7FBF8D6881398A.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/BP_Enemy_Random_Mover.uasset'
+[2025.02.10-17.05.47:239][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.383 ms (total: 2.46 sec)
+[2025.02.10-17.05.47:298][484]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.10-17.05.47:298][484]LogContentValidation: Enabled validators:
+[2025.02.10-17.05.47:298][484]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.10-17.05.47:298][484]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.10-17.05.47:298][484]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.10-17.05.47:298][484]LogContentValidation: Display: Validating asset /Game/StudentWork/BP_Enemy_Random_Mover.BP_Enemy_Random_Mover
+[2025.02.10-17.05.47:298][484]AssetCheck: /Game/StudentWork/BP_Enemy_Random_Mover Validating asset
+[2025.02.10-17.05.48:501][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.02.10-17.05.51:153][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.02.10-17.06.29:135][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.10-17.06.29:195][134]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Enemy_Parent] ([2] browsable assets)...
+[2025.02.10-17.06.29:204][134]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Enemy_Parent.BP_Enemy_Parent]
+[2025.02.10-17.06.29:204][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Enemy_Parent]
+[2025.02.10-17.06.29:214][134]LogSavePackage: Moving output files for package: /Game/StudentWork/BP_Enemy_Parent
+[2025.02.10-17.06.29:215][134]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Enemy_ParentA3597E064283CCAED9FB2F93D8670924.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/BP_Enemy_Parent.uasset'
+[2025.02.10-17.06.29:223][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.500 ms (total: 2.55 sec)
+[2025.02.10-17.06.29:259][134]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.10-17.06.29:259][134]LogContentValidation: Enabled validators:
+[2025.02.10-17.06.29:259][134]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.10-17.06.29:259][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.10-17.06.29:259][134]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.10-17.06.29:259][134]LogContentValidation: Display: Validating asset /Game/StudentWork/BP_Enemy_Parent.BP_Enemy_Parent
+[2025.02.10-17.06.29:259][134]AssetCheck: /Game/StudentWork/BP_Enemy_Parent Validating asset
+[2025.02.10-17.06.32:095][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.02.10-17.07.52:511][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.02.10-17.07.52:521][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.10-17.07.52:623][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.02.10-17.07.52:721][ 44]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.02.10-17.07.52:723][ 44]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/StartMap5AEBA92C4F3AEE28FC6440927F051EBC.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StartMap.umap'
+[2025.02.10-17.07.52:733][ 44]LogFileHelpers: All files are already saved.
+[2025.02.10-17.07.52:733][ 44]LogFileHelpers: Saving map 'StartMap' took 0.153
+[2025.02.10-17.07.52:734][ 44]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Enemy_Random_Mover] ([2] browsable assets)...
+[2025.02.10-17.07.52:741][ 44]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Enemy_Random_Mover.BP_Enemy_Random_Mover]
+[2025.02.10-17.07.52:741][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Enemy_Random_Mover]
+[2025.02.10-17.07.52:751][ 44]LogSavePackage: Moving output files for package: /Game/StudentWork/BP_Enemy_Random_Mover
+[2025.02.10-17.07.52:752][ 44]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Enemy_Random_Mover205A1D6A4C4D9ECE8AD89CA604C925D5.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/BP_Enemy_Random_Mover.uasset'
+[2025.02.10-17.07.52:753][ 44]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Enemy_Chaser] ([2] browsable assets)...
+[2025.02.10-17.07.52:759][ 44]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Enemy_Chaser.BP_Enemy_Chaser]
+[2025.02.10-17.07.52:759][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Enemy_Chaser]
+[2025.02.10-17.07.52:767][ 44]LogSavePackage: Moving output files for package: /Game/StudentWork/BP_Enemy_Chaser
+[2025.02.10-17.07.52:767][ 44]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Enemy_ChaserAEF6D7C045F08D80FEE0D1A8E6D38487.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/BP_Enemy_Chaser.uasset'
+[2025.02.10-17.07.52:768][ 44]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Enemy_Stationary] ([2] browsable assets)...
+[2025.02.10-17.07.52:774][ 44]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Enemy_Stationary.BP_Enemy_Stationary]
+[2025.02.10-17.07.52:774][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Enemy_Stationary]
+[2025.02.10-17.07.52:780][ 44]LogSavePackage: Moving output files for package: /Game/StudentWork/BP_Enemy_Stationary
+[2025.02.10-17.07.52:781][ 44]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Enemy_StationaryFBD1B1C94CC6AC11E6C91CBA61F633CE.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/BP_Enemy_Stationary.uasset'
+[2025.02.10-17.07.52:789][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 267.658 ms (total: 2.82 sec)
+[2025.02.10-17.07.52:848][ 44]LogContentValidation: Display: Starting to validate 4 assets
+[2025.02.10-17.07.52:848][ 44]LogContentValidation: Enabled validators:
+[2025.02.10-17.07.52:848][ 44]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.10-17.07.52:848][ 44]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.10-17.07.52:848][ 44]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.10-17.07.52:848][ 44]LogContentValidation: Display: Validating asset /Game/StartMap.StartMap
+[2025.02.10-17.07.52:848][ 44]AssetCheck: /Game/StartMap Validating asset
+[2025.02.10-17.07.52:848][ 44]LogContentValidation: Display: Validating asset /Game/StudentWork/BP_Enemy_Random_Mover.BP_Enemy_Random_Mover
+[2025.02.10-17.07.52:848][ 44]AssetCheck: /Game/StudentWork/BP_Enemy_Random_Mover Validating asset
+[2025.02.10-17.07.52:848][ 44]LogContentValidation: Display: Validating asset /Game/StudentWork/BP_Enemy_Chaser.BP_Enemy_Chaser
+[2025.02.10-17.07.52:848][ 44]AssetCheck: /Game/StudentWork/BP_Enemy_Chaser Validating asset
+[2025.02.10-17.07.52:848][ 44]LogContentValidation: Display: Validating asset /Game/StudentWork/BP_Enemy_Stationary.BP_Enemy_Stationary
+[2025.02.10-17.07.52:848][ 44]AssetCheck: /Game/StudentWork/BP_Enemy_Stationary Validating asset
+[2025.02.10-17.07.56:321][454]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6972.381836
+[2025.02.10-17.07.56:447][469]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-17.07.56:448][470]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6972.498047, Update Interval: 349.870300
+[2025.02.10-17.09.41:754][968]LogEditorTransaction: Undo Add Node
+[2025.02.10-17.12.28:791][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.10-17.12.28:832][572]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Enemy_Random_Mover] ([2] browsable assets)...
+[2025.02.10-17.12.28:910][572]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Enemy_Random_Mover.BP_Enemy_Random_Mover]
+[2025.02.10-17.12.28:910][572]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Enemy_Random_Mover]
+[2025.02.10-17.12.28:919][572]LogSavePackage: Moving output files for package: /Game/StudentWork/BP_Enemy_Random_Mover
+[2025.02.10-17.12.28:920][572]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Enemy_Random_MoverC8980B3D49CB10AE628C528226F972E9.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/BP_Enemy_Random_Mover.uasset'
+[2025.02.10-17.12.28:929][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.181 ms (total: 2.96 sec)
+[2025.02.10-17.12.28:985][572]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.10-17.12.28:985][572]LogContentValidation: Enabled validators:
+[2025.02.10-17.12.28:985][572]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.10-17.12.28:985][572]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.10-17.12.28:985][572]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.10-17.12.28:985][572]LogContentValidation: Display: Validating asset /Game/StudentWork/BP_Enemy_Random_Mover.BP_Enemy_Random_Mover
+[2025.02.10-17.12.28:985][572]AssetCheck: /Game/StudentWork/BP_Enemy_Random_Mover Validating asset
+[2025.02.10-17.12.30:781][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.02.10-17.12.33:445][982]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.10-17.12.33:463][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.10-17.12.33:493][982]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.02.10-17.12.33:511][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016947s)
+[2025.02.10-17.12.33:511][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.017053s)
+[2025.02.10-17.12.33:528][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.02.10-17.12.33:532][982]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.02.10-17.12.33:533][982]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2025.02.10-17.12.33:544][982]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.02.10-17.12.33:544][982]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.10-17.12.33:544][982]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.10-17.12.33:544][982]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.10-17.12.33:544][982]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.10-17.12.33:544][982]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.10-17.12.33:544][982]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.10-17.12.33:544][982]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.10-17.12.33:544][982]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.10-17.12.33:544][982]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.10-17.12.33:544][982]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.10-17.12.33:544][982]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.10-17.12.33:545][982]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.10-17.12.33:575][982]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.10-17.12.33:575][982]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.10-17.12.33:575][982]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.10-17.12.33:575][982]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.10-17.12.33:576][982]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.02.10-17.12.33:576][982]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.02.10-17.12.33:578][982]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.02.10-17.12.33:578][982]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.02.10-17.12.33:578][982]LogInit: FAudioDevice initialized with ID 15.
+[2025.02.10-17.12.33:578][982]LogAudio: Display: Audio Device (ID: 15) registered with world 'StartMap'.
+[2025.02.10-17.12.33:578][982]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.02.10-17.12.33:581][982]LogLoad: Game class is 'MechGameMode_C'
+[2025.02.10-17.12.33:589][982]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.02.10-17.12.33
+[2025.02.10-17.12.33:590][982]LogWorld: Bringing up level for play took: 0.009187
+[2025.02.10-17.12.33:592][982]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2025.02.10-17.12.33:595][982]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.02.10-17.12.33:595][982]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.02.10-17.12.33:604][982]PIE: Server logged in
+[2025.02.10-17.12.33:605][982]PIE: Play in editor total start time 0.148 seconds.
+[2025.02.10-17.12.35:864][198]LogScript: Warning: Script Msg: BP_Enemy_Random_Mover_C_5 Attack SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.02.10-17.12.35:865][198]LogScript: Warning: Script Msg called by: BP_Enemy_Random_Mover_C /Game/UEDPIE_0_StartMap.StartMap:PersistentLevel.BP_Enemy_Random_Mover_C_5
+[2025.02.10-17.12.42:008][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.10-17.12.42:008][782]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.02.10-17.12.42:009][782]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.10-17.12.42:010][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.10-17.12.42:010][782]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.02.10-17.12.42:010][782]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.02.10-17.12.42:015][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.10-17.12.42:019][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.10-17.12.42:033][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.10-17.12.42:033][782]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.02.10-17.12.42:033][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.02.10-17.12.42:035][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.02.10-17.12.42:043][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.02.10-17.12.42:150][783]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.02.10-17.12.48:821][384]LogSlate: Window 'BP_Enemy_Random_Mover' being destroyed
+[2025.02.10-17.13.13:129][140]LogSlate: Took 0.005888 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.02.10-17.13.55:945][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.02.10-17.13.57:679][270]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.10-17.13.57:696][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.10-17.13.57:696][270]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.02.10-17.13.57:711][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015439s)
+[2025.02.10-17.13.57:711][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.015474s)
+[2025.02.10-17.13.57:727][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.02.10-17.13.57:732][270]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.02.10-17.13.57:733][270]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2025.02.10-17.13.57:742][270]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.02.10-17.13.57:742][270]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.10-17.13.57:742][270]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.10-17.13.57:742][270]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.10-17.13.57:742][270]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.10-17.13.57:742][270]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.10-17.13.57:742][270]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.10-17.13.57:742][270]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.10-17.13.57:742][270]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.10-17.13.57:742][270]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.10-17.13.57:742][270]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.10-17.13.57:742][270]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.10-17.13.57:744][270]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.10-17.13.57:769][270]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.10-17.13.57:769][270]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.10-17.13.57:769][270]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.10-17.13.57:769][270]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.10-17.13.57:770][270]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.02.10-17.13.57:770][270]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.02.10-17.13.57:771][270]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.02.10-17.13.57:771][270]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.02.10-17.13.57:771][270]LogInit: FAudioDevice initialized with ID 16.
+[2025.02.10-17.13.57:771][270]LogAudio: Display: Audio Device (ID: 16) registered with world 'StartMap'.
+[2025.02.10-17.13.57:771][270]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.02.10-17.13.57:775][270]LogLoad: Game class is 'MechGameMode_C'
+[2025.02.10-17.13.57:783][270]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.02.10-17.13.57
+[2025.02.10-17.13.57:784][270]LogWorld: Bringing up level for play took: 0.009399
+[2025.02.10-17.13.57:786][270]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.02.10-17.13.57:788][270]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.02.10-17.13.57:788][270]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.02.10-17.13.57:799][270]PIE: Server logged in
+[2025.02.10-17.13.57:800][270]PIE: Play in editor total start time 0.11 seconds.
+[2025.02.10-17.14.27:711][ 53]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7363.759277
+[2025.02.10-17.14.27:858][ 67]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-17.14.27:858][ 68]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7363.895508, Update Interval: 353.354889
+[2025.02.10-17.20.55:029][607]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7751.079590
+[2025.02.10-17.20.55:167][620]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-17.20.55:167][621]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7751.207031, Update Interval: 351.950439
+[2025.02.10-17.23.30:432][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.10-17.23.30:433][831]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.02.10-17.23.30:433][831]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.10-17.23.30:435][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.10-17.23.30:435][831]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.02.10-17.23.30:435][831]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.02.10-17.23.30:439][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.10-17.23.30:444][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.10-17.23.30:461][831]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.10-17.23.30:461][831]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.02.10-17.23.30:461][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.02.10-17.23.30:463][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.02.10-17.23.30:469][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.10-17.23.30:475][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.02.10-17.23.30:584][832]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.02.10-17.27.33:601][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.02.10-17.27.33:690][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StartMap_Auto8
+[2025.02.10-17.27.33:690][644]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/StartMap_Auto85BF6EFFF4DA1535330533E915F384ABF.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StartMap_Auto8.umap'
+[2025.02.10-17.27.33:692][644]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StartMap_Auto8.umap is in the /Temp path, will not scan.
+[2025.02.10-17.27.33:692][644]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/StartMap_Auto8 is in the /Temp path, will not scan.
+[2025.02.10-17.27.33:692][644]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/StartMap_Auto8 is in the /Temp path, will not scan.
+[2025.02.10-17.27.33:692][644]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartMap' took 0.108
+[2025.02.10-17.27.33:692][644]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.108
+[2025.02.10-17.27.33:692][644]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Enemy_Parent] ([2] browsable assets)...
+[2025.02.10-17.27.33:780][644]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Enemy_Parent.BP_Enemy_Parent]
+[2025.02.10-17.27.33:780][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Enemy_Parent]
+[2025.02.10-17.27.33:792][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StudentWork/BP_Enemy_Parent_Auto8
+[2025.02.10-17.27.33:792][644]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Enemy_Parent_Auto8047A26E24F52F5D60E2EA6B881DC9028.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StudentWork/BP_Enemy_Parent_Auto8.uasset'
+[2025.02.10-17.27.33:794][644]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Enemy_Random_Mover] ([2] browsable assets)...
+[2025.02.10-17.27.33:806][644]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Enemy_Random_Mover.BP_Enemy_Random_Mover]
+[2025.02.10-17.27.33:806][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Enemy_Random_Mover]
+[2025.02.10-17.27.33:815][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StudentWork/BP_Enemy_Random_Mover_Auto8
+[2025.02.10-17.27.33:815][644]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Enemy_Random_Mover_Auto84677BD13467BCBB9C28FAB98787DAD7B.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StudentWork/BP_Enemy_Random_Mover_Auto8.uasset'
+[2025.02.10-17.27.33:817][644]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Enemy_Chaser] ([2] browsable assets)...
+[2025.02.10-17.27.33:829][644]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Enemy_Chaser.BP_Enemy_Chaser]
+[2025.02.10-17.27.33:829][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Enemy_Chaser]
+[2025.02.10-17.27.33:835][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StudentWork/BP_Enemy_Chaser_Auto8
+[2025.02.10-17.27.33:835][644]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Enemy_Chaser_Auto8698337564F49C7F0B45EFC8025D9D9E5.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StudentWork/BP_Enemy_Chaser_Auto8.uasset'
+[2025.02.10-17.27.33:837][644]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Enemy_Stationary] ([2] browsable assets)...
+[2025.02.10-17.27.33:849][644]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Enemy_Stationary.BP_Enemy_Stationary]
+[2025.02.10-17.27.33:849][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Enemy_Stationary]
+[2025.02.10-17.27.33:855][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StudentWork/BP_Enemy_Stationary_Auto8
+[2025.02.10-17.27.33:855][644]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Enemy_Stationary_Auto8C38740F143DFF5F92AA700B31B6FD6C1.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StudentWork/BP_Enemy_Stationary_Auto8.uasset'
+[2025.02.10-17.27.33:856][644]LogFileHelpers: Auto-saving content packages took 0.163
+[2025.02.10-17.27.36:220][923]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8152.251953
+[2025.02.10-17.27.36:347][938]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-17.27.36:347][938]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8152.369629, Update Interval: 347.345184
+[2025.02.10-17.34.13:266][463]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8549.374023
+[2025.02.10-17.34.13:382][477]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-17.34.13:382][478]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8549.482422, Update Interval: 328.801544
+[2025.02.10-17.35.27:973][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.02.10-17.35.27:978][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.10-17.35.28:084][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.02.10-17.35.28:173][407]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.02.10-17.35.28:173][407]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/StartMapE7A8561A49DC3701B8EAC7AD71A4CB7A.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StartMap.umap'
+[2025.02.10-17.35.28:184][407]LogFileHelpers: All files are already saved.
+[2025.02.10-17.35.28:184][407]LogFileHelpers: Saving map 'StartMap' took 0.145
+[2025.02.10-17.35.28:185][407]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StudentWork/BP_Enemy_Parent] ([2] browsable assets)...
+[2025.02.10-17.35.28:185][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Enemy_Parent]
+[2025.02.10-17.35.28:196][407]LogSavePackage: Moving output files for package: /Game/StudentWork/BP_Enemy_Parent
+[2025.02.10-17.35.28:197][407]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Enemy_ParentCDB7B25548C03A775828429F73714332.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/BP_Enemy_Parent.uasset'
+[2025.02.10-17.35.28:199][407]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StudentWork/BP_Enemy_Random_Mover] ([2] browsable assets)...
+[2025.02.10-17.35.28:199][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Enemy_Random_Mover]
+[2025.02.10-17.35.28:208][407]LogSavePackage: Moving output files for package: /Game/StudentWork/BP_Enemy_Random_Mover
+[2025.02.10-17.35.28:208][407]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Enemy_Random_MoverB05B790645CB0E29502A7E86AC9F4416.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/BP_Enemy_Random_Mover.uasset'
+[2025.02.10-17.35.28:210][407]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StudentWork/BP_Enemy_Chaser] ([2] browsable assets)...
+[2025.02.10-17.35.28:210][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Enemy_Chaser]
+[2025.02.10-17.35.28:217][407]LogSavePackage: Moving output files for package: /Game/StudentWork/BP_Enemy_Chaser
+[2025.02.10-17.35.28:218][407]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Enemy_Chaser1849BA094B183BB6CC4676B1DFCE6C62.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/BP_Enemy_Chaser.uasset'
+[2025.02.10-17.35.28:219][407]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StudentWork/BP_Enemy_Stationary] ([2] browsable assets)...
+[2025.02.10-17.35.28:219][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Enemy_Stationary]
+[2025.02.10-17.35.28:225][407]LogSavePackage: Moving output files for package: /Game/StudentWork/BP_Enemy_Stationary
+[2025.02.10-17.35.28:225][407]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Enemy_Stationary7A783AC443CCF6A78FB33AA5D1637D23.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/BP_Enemy_Stationary.uasset'
+[2025.02.10-17.35.28:233][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 255.103 ms (total: 3.21 sec)
+[2025.02.10-17.35.28:289][407]LogContentValidation: Display: Starting to validate 5 assets
+[2025.02.10-17.35.28:289][407]LogContentValidation: Enabled validators:
+[2025.02.10-17.35.28:289][407]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.10-17.35.28:289][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.10-17.35.28:289][407]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.10-17.35.28:289][407]LogContentValidation: Display: Validating asset /Game/StartMap.StartMap
+[2025.02.10-17.35.28:289][407]AssetCheck: /Game/StartMap Validating asset
+[2025.02.10-17.35.28:289][407]LogContentValidation: Display: Validating asset /Game/StudentWork/BP_Enemy_Parent.BP_Enemy_Parent
+[2025.02.10-17.35.28:289][407]AssetCheck: /Game/StudentWork/BP_Enemy_Parent Validating asset
+[2025.02.10-17.35.28:289][407]LogContentValidation: Display: Validating asset /Game/StudentWork/BP_Enemy_Random_Mover.BP_Enemy_Random_Mover
+[2025.02.10-17.35.28:289][407]AssetCheck: /Game/StudentWork/BP_Enemy_Random_Mover Validating asset
+[2025.02.10-17.35.28:289][407]LogContentValidation: Display: Validating asset /Game/StudentWork/BP_Enemy_Chaser.BP_Enemy_Chaser
+[2025.02.10-17.35.28:289][407]AssetCheck: /Game/StudentWork/BP_Enemy_Chaser Validating asset
+[2025.02.10-17.35.28:289][407]LogContentValidation: Display: Validating asset /Game/StudentWork/BP_Enemy_Stationary.BP_Enemy_Stationary
+[2025.02.10-17.35.28:289][407]AssetCheck: /Game/StudentWork/BP_Enemy_Stationary Validating asset
+[2025.02.10-17.40.20:422][952]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8916.715820
+[2025.02.10-17.40.21:419][955]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.10-17.40.21:419][955]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8917.376953, Update Interval: 323.811768
