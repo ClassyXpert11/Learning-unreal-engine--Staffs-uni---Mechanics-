@@ -3710,3 +3710,12 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.02.13-14.30.15:734][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.02.13-14.30.15:799][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
 [2025.02.13-14.30.32:500][693]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StudentWork/BP_Enemy_Parent.BP_Enemy_Parent
+[2025.02.13-14.32.35:124][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.02.13-14.32.41:142][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.02.13-14.32.41:152][329]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartMap' took 0.027
+[2025.02.13-14.32.41:152][329]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Enemy_Parent] ([2] browsable assets)...
+[2025.02.13-14.32.41:193][329]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Enemy_Parent.BP_Enemy_Parent]
+[2025.02.13-14.32.41:193][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Enemy_Parent]
+[2025.02.13-14.32.41:207][329]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StudentWork/BP_Enemy_Parent_Auto6
+[2025.02.13-14.32.41:207][329]LogSavePackage: Moving '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_Enemy_Parent_Auto6BA33E60E4D77623952AA4DB2F881C3FC.tmp' to '../../../../../../Users/a013971o/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StudentWork/BP_Enemy_Parent_Auto6.uasset'
+[2025.02.13-14.32.41:209][329]LogFileHelpers: Auto-saving content packages took 0.057
