@@ -1024,3 +1024,774 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.02.24-14.42.00:959][789]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1656.756836
 [2025.02.24-14.42.01:959][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.02.24-14.42.01:959][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1657.423584, Update Interval: 344.589386
+[2025.02.24-14.48.02:143][882]LogEditorViewport: Clicking Background
+[2025.02.24-14.48.27:605][903]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2043.406616
+[2025.02.24-14.48.27:722][917]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.24-14.48.27:722][917]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2043.515015, Update Interval: 311.504883
+[2025.02.24-14.48.48:671][246]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.02.24-14.48.59:796][229]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.02.24-14.49.54:340][257]Cmd: TRANSACTION UNDO
+[2025.02.24-14.49.54:340][257]LogEditorTransaction: Undo Clicking on Elements
+[2025.02.24-14.49.54:719][263]Cmd: TRANSACTION UNDO
+[2025.02.24-14.49.54:719][263]LogEditorTransaction: Undo Place Objects
+[2025.02.24-14.49.55:187][284]Cmd: TRANSACTION UNDO
+[2025.02.24-14.49.55:187][284]LogEditorTransaction: Undo Place Objects
+[2025.02.24-14.49.55:629][327]Cmd: TRANSACTION UNDO
+[2025.02.24-14.49.55:629][327]LogEditorTransaction: Undo Place Objects
+[2025.02.24-14.49.55:992][362]Cmd: TRANSACTION UNDO
+[2025.02.24-14.49.55:992][362]LogEditorTransaction: Undo Place Objects
+[2025.02.24-14.49.56:331][395]Cmd: TRANSACTION UNDO
+[2025.02.24-14.49.56:331][395]LogEditorTransaction: Undo Place Objects
+[2025.02.24-14.49.56:644][426]Cmd: TRANSACTION UNDO
+[2025.02.24-14.49.56:644][426]LogEditorTransaction: Undo Place Objects
+[2025.02.24-14.49.56:964][457]Cmd: TRANSACTION UNDO
+[2025.02.24-14.49.56:964][457]LogEditorTransaction: Undo Place Objects
+[2025.02.24-14.49.57:397][499]Cmd: TRANSACTION UNDO
+[2025.02.24-14.49.57:397][499]LogEditorTransaction: Undo Place Objects
+[2025.02.24-14.49.58:075][566]Cmd: TRANSACTION UNDO
+[2025.02.24-14.49.58:075][566]LogEditorTransaction: Undo Place Objects
+[2025.02.24-14.49.58:530][573]Cmd: TRANSACTION UNDO
+[2025.02.24-14.49.58:530][573]LogEditorTransaction: Undo Place Objects
+[2025.02.24-14.49.58:978][600]Cmd: TRANSACTION UNDO
+[2025.02.24-14.49.58:978][600]LogEditorTransaction: Undo Place Objects
+[2025.02.24-14.50.02:037][871]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display: ================================================
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display: Total job queries 233, among them cache hits 87 (37.34%), DDC hits 60 (25.75%), Duplicates 3 (1.29%)
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display: Tracking 143 distinct input hashes that result in 112 distinct outputs (78.32%)
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display: RAM used: 2.71 MiB of 1.60 GiB budget. Usage: 0.17%
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display: Shaders Compiled: 83
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display: Jobs assigned 83, completed 83 (100%)
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display: Average time worker was idle: 1.19 s
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.31 s
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display: Job execution time: average 0.52 s, max 2.04 s
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display: Job life time (pending + execution): average 0.57 s, max 2.14
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display: Shader code size: average 32.161 KiB, min 4.379 KiB, max 59.199 KiB
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.60 s
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display: Jobs were issued in 83 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display: Average processing rate: 6.59 jobs/sec
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display: Total thread time: 25.659 s
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display: Total thread preprocess time: 1.85 s
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display: Percentage time preprocessing: 7.21%
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display: Effective parallelization: 2.04 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   22 times, average 0.35 sec, max 0.51 sec, min 0.27 sec)
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    6 times, average 0.30 sec, max 0.36 sec, min 0.25 sec)
+[2025.02.24-14.50.28:339][330]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    8 times, average 0.29 sec, max 0.38 sec, min 0.25 sec)
+[2025.02.24-14.50.28:340][330]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    6 times, average 0.29 sec, max 0.37 sec, min 0.21 sec)
+[2025.02.24-14.50.28:340][330]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   18 times, average 0.26 sec, max 0.37 sec, min 0.20 sec)
+[2025.02.24-14.50.28:340][330]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.02.24-14.50.28:340][330]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.75% of total time (compiled   22 times, average 0.35 sec, max 0.51 sec, min 0.27 sec)
+[2025.02.24-14.50.28:340][330]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 18.09% of total time (compiled   18 times, average 0.26 sec, max 0.37 sec, min 0.20 sec)
+[2025.02.24-14.50.28:340][330]LogShaderCompilers: Display:                                                  FVelocityPS - 9.14% of total time (compiled    8 times, average 0.29 sec, max 0.38 sec, min 0.25 sec)
+[2025.02.24-14.50.28:340][330]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.84% of total time (compiled   10 times, average 0.20 sec, max 0.25 sec, min 0.16 sec)
+[2025.02.24-14.50.28:340][330]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap - 7.03% of total time (compiled    6 times, average 0.30 sec, max 0.36 sec, min 0.25 sec)
+[2025.02.24-14.50.28:340][330]LogShaderCompilers: Display: === Material stats ===
+[2025.02.24-14.50.28:340][330]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.02.24-14.50.28:340][330]LogShaderCompilers: Display: Materials Translated:    126
+[2025.02.24-14.50.28:340][330]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2025.02.24-14.50.28:340][330]LogShaderCompilers: Display: Material Translation Only: 0.02 s (23%)
+[2025.02.24-14.50.28:340][330]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.02.24-14.50.28:340][330]LogShaderCompilers: Display: Material Cache Hits: 25 (20%)
+[2025.02.24-14.50.28:340][330]LogShaderCompilers: Display: ================================================
+[2025.02.24-14.50.42:616][996]LogEditorViewport: Clicking Background
+[2025.02.24-14.50.56:008][410]Cmd: DELETE
+[2025.02.24-14.50.56:008][410]Cmd: ACTOR DELETE
+[2025.02.24-14.50.56:015][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.24-14.50.56:016][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.24-14.50.56:016][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.24-14.50.56:017][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.24-14.50.56:017][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.24-14.50.56:017][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.24-14.50.56:018][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.24-14.50.56:018][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.24-14.50.56:018][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.24-14.50.56:027][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.02.24-14.50.56:028][410]LogEditorActor: Deleted 9 Actors (0.019 secs)
+[2025.02.24-14.50.57:157][535]Cmd: DELETE
+[2025.02.24-14.50.57:157][535]Cmd: ACTOR DELETE
+[2025.02.24-14.50.57:163][535]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.24-14.50.57:166][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.02.24-14.50.57:167][535]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2025.02.24-14.51.07:887][772]Cmd: DELETE
+[2025.02.24-14.51.07:887][772]Cmd: ACTOR DELETE
+[2025.02.24-14.51.07:892][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.24-14.51.07:893][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.24-14.51.07:893][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.24-14.51.07:893][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.24-14.51.07:896][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.02.24-14.51.07:897][772]LogEditorActor: Deleted 4 Actors (0.011 secs)
+[2025.02.24-14.51.10:237][ 40]Cmd: DELETE
+[2025.02.24-14.51.10:237][ 40]Cmd: ACTOR DELETE
+[2025.02.24-14.51.10:242][ 40]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.24-14.51.10:245][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.02.24-14.51.10:246][ 40]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2025.02.24-14.51.10:983][120]Cmd: DELETE
+[2025.02.24-14.51.10:983][120]Cmd: ACTOR DELETE
+[2025.02.24-14.51.10:988][120]LogEditorActor: Deleted Actor: PointLight
+[2025.02.24-14.51.10:993][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.02.24-14.51.10:994][120]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2025.02.24-14.51.13:396][396]Cmd: DELETE
+[2025.02.24-14.51.13:396][396]Cmd: ACTOR DELETE
+[2025.02.24-14.51.13:401][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.24-14.51.13:405][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.02.24-14.51.13:406][396]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2025.02.24-14.51.33:339][681]Cmd: TRANSACTION UNDO
+[2025.02.24-14.51.33:339][681]LogEditorTransaction: Undo Scale Elements
+[2025.02.24-14.51.50:798][585]LogEditorViewport: Clicking Background
+[2025.02.24-14.52.51:541][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.02.24-14.52.51:550][710]LogPackageLocalizationCache: Processed 52 localized package path(s) for 1 prioritized culture(s) in 0.005594 seconds
+[2025.02.24-14.52.51:616][710]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StartMap_Auto1
+[2025.02.24-14.52.51:616][710]LogSavePackage: Moving '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/StartMap_Auto1370D6C9A4298247EE14EC9AF6780991F.tmp' to '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StartMap_Auto1.umap'
+[2025.02.24-14.52.51:620][710]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StartMap_Auto1.umap is in the /Temp path, will not scan.
+[2025.02.24-14.52.51:622][710]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartMap' took 0.084
+[2025.02.24-14.52.51:622][710]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.084
+[2025.02.24-14.53.29:187][196]LogEditorViewport: Clicking Background
+[2025.02.24-14.53.36:165][  1]Cmd: TRANSACTION UNDO
+[2025.02.24-14.53.36:165][  1]LogEditorTransaction: Undo Move Elements
+[2025.02.24-14.54.01:154][707]LogEditorViewport: Clicking Background
+[2025.02.24-14.54.32:266][ 18]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2408.059814
+[2025.02.24-14.54.32:385][ 30]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.24-14.54.32:385][ 30]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2408.169922, Update Interval: 352.757965
+[2025.02.24-14.54.38:392][592]Cmd: TRANSACTION UNDO
+[2025.02.24-14.54.38:392][592]LogEditorTransaction: Undo Move Elements
+[2025.02.24-14.54.46:619][350]Cmd: TRANSACTION UNDO
+[2025.02.24-14.54.46:619][350]LogEditorTransaction: Undo Move Elements
+[2025.02.24-14.55.05:152][240]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.02.24-14.56.38:782][957]LogSlate: Window 'New Packed Level Actor' being destroyed
+[2025.02.24-14.57.31:956][835]LogSlate: Window 'Create Merged Actor' being destroyed
+[2025.02.24-14.57.32:146][835]LogStaticMesh: Display: Building static mesh SM_Skulls_and_rocks (Required Memory Estimate: 0.651677 MB)...
+[2025.02.24-14.57.32:189][838]LogStaticMesh: Built static mesh [0.04s] /Game/StudentWork/Assessment_two_work/SM_Skulls_and_rocks.SM_Skulls_and_rocks
+[2025.02.24-14.57.37:265][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074046780) on the [0x00000B1051762380, 3D] queue has not completed after 5.000000 seconds.
+[2025.02.24-14.57.37:332][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B107404B580) on the [0x00000B1051762980, Compute] queue has not completed after 5.000000 seconds.
+[2025.02.24-14.57.42:529][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B107404AC80) on the [0x00000B1051762380, 3D] queue has not completed after 10.265455 seconds.
+[2025.02.24-14.57.42:529][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074040D80) on the [0x00000B1051762380, 3D] queue has not completed after 10.242328 seconds.
+[2025.02.24-14.57.42:536][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074044200) on the [0x00000B1051762380, 3D] queue has not completed after 10.204585 seconds.
+[2025.02.24-14.57.42:542][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074041380) on the [0x00000B1051762380, 3D] queue has not completed after 10.209032 seconds.
+[2025.02.24-14.57.42:542][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B107404C180) on the [0x00000B1051762380, 3D] queue has not completed after 10.208856 seconds.
+[2025.02.24-14.57.42:542][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074043600) on the [0x00000B1051762380, 3D] queue has not completed after 10.208861 seconds.
+[2025.02.24-14.57.42:542][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074047200) on the [0x00000B1051762380, 3D] queue has not completed after 10.208940 seconds.
+[2025.02.24-14.57.42:542][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074048700) on the [0x00000B1051762980, Compute] queue has not completed after 10.208706 seconds.
+[2025.02.24-14.57.42:542][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074047080) on the [0x00000B1051762380, 3D] queue has not completed after 10.208872 seconds.
+[2025.02.24-14.57.42:542][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074048580) on the [0x00000B1051762980, Compute] queue has not completed after 10.207672 seconds.
+[2025.02.24-14.57.42:542][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074047C80) on the [0x00000B1051762980, Compute] queue has not completed after 10.207764 seconds.
+[2025.02.24-14.57.42:542][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B107404BE80) on the [0x00000B1051762380, 3D] queue has not completed after 10.208967 seconds.
+[2025.02.24-14.57.42:542][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074043F00) on the [0x00000B1051762980, Compute] queue has not completed after 10.205675 seconds.
+[2025.02.24-14.57.42:542][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B107404A500) on the [0x00000B1051762380, 3D] queue has not completed after 10.208748 seconds.
+[2025.02.24-14.57.42:543][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B107404A200) on the [0x00000B1051762380, 3D] queue has not completed after 10.208722 seconds.
+[2025.02.24-14.57.42:544][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074049C00) on the [0x00000B1051762380, 3D] queue has not completed after 10.209540 seconds.
+[2025.02.24-14.57.42:544][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074044380) on the [0x00000B1051762380, 3D] queue has not completed after 10.209689 seconds.
+[2025.02.24-14.57.42:544][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074047800) on the [0x00000B1051762380, 3D] queue has not completed after 10.210090 seconds.
+[2025.02.24-14.57.42:544][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074045280) on the [0x00000B1051762380, 3D] queue has not completed after 10.208709 seconds.
+[2025.02.24-14.57.42:545][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074041680) on the [0x00000B1051762380, 3D] queue has not completed after 10.208783 seconds.
+[2025.02.24-14.57.42:546][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074047500) on the [0x00000B1051762380, 3D] queue has not completed after 10.210160 seconds.
+[2025.02.24-14.57.42:546][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B107404A800) on the [0x00000B1051762380, 3D] queue has not completed after 10.210158 seconds.
+[2025.02.24-14.57.42:546][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B107404BA00) on the [0x00000B1051762980, Compute] queue has not completed after 10.210059 seconds.
+[2025.02.24-14.57.42:547][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074041B00) on the [0x00000B1051762380, 3D] queue has not completed after 10.210257 seconds.
+[2025.02.24-14.57.42:547][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074042E80) on the [0x00000B1051762980, Compute] queue has not completed after 10.210019 seconds.
+[2025.02.24-14.57.42:547][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074048400) on the [0x00000B1051762380, 3D] queue has not completed after 10.210350 seconds.
+[2025.02.24-14.57.42:547][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074046900) on the [0x00000B1051762380, 3D] queue has not completed after 10.210348 seconds.
+[2025.02.24-14.57.42:547][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074042580) on the [0x00000B1051762380, 3D] queue has not completed after 10.210413 seconds.
+[2025.02.24-14.57.42:547][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B107404B100) on the [0x00000B1051762980, Compute] queue has not completed after 10.208909 seconds.
+[2025.02.24-14.57.42:547][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074042A00) on the [0x00000B1051762380, 3D] queue has not completed after 10.210190 seconds.
+[2025.02.24-14.57.42:547][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074046300) on the [0x00000B1051762980, Compute] queue has not completed after 10.208974 seconds.
+[2025.02.24-14.57.42:548][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B107404B880) on the [0x00000B1051762380, 3D] queue has not completed after 10.210081 seconds.
+[2025.02.24-14.57.42:548][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074048B80) on the [0x00000B1051762380, 3D] queue has not completed after 10.210518 seconds.
+[2025.02.24-14.57.42:548][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074048880) on the [0x00000B1051762380, 3D] queue has not completed after 10.210591 seconds.
+[2025.02.24-14.57.42:548][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074046180) on the [0x00000B1051762380, 3D] queue has not completed after 10.210443 seconds.
+[2025.02.24-14.57.42:549][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074045880) on the [0x00000B1051762980, Compute] queue has not completed after 10.210788 seconds.
+[2025.02.24-14.57.42:550][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074045400) on the [0x00000B1051762380, 3D] queue has not completed after 10.211426 seconds.
+[2025.02.24-14.57.42:550][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074044F80) on the [0x00000B1051762380, 3D] queue has not completed after 10.211552 seconds.
+[2025.02.24-14.57.42:550][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074047E00) on the [0x00000B1051762380, 3D] queue has not completed after 10.211979 seconds.
+[2025.02.24-14.57.42:551][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B107404AF80) on the [0x00000B1051762380, 3D] queue has not completed after 10.212306 seconds.
+[2025.02.24-14.57.42:551][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B107404A680) on the [0x00000B1051762380, 3D] queue has not completed after 10.212314 seconds.
+[2025.02.24-14.57.42:552][842]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074049300) on the [0x00000B1051762380, 3D] queue has not completed after 10.213849 seconds.
+[2025.02.24-14.57.45:655][112]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StudentWork/Assessment_two_work/SM_Skulls_and_rocks.SM_Skulls_and_rocks
+[2025.02.24-14.57.45:655][112]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StudentWork/Assessment_two_work/SM_Skulls_and_rocks.SM_Skulls_and_rocks
+[2025.02.24-14.57.45:656][112]LogActorFactory: Actor Factory spawned StaticMesh /Game/StudentWork/Assessment_two_work/SM_Skulls_and_rocks.SM_Skulls_and_rocks as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_273
+[2025.02.24-14.57.48:041][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.02.24-14.57.48:043][379]LogEditorActor: Deleted 0 Actors (0.010 secs)
+[2025.02.24-14.57.48:050][379]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StudentWork/Assessment_two_work/SM_Skulls_and_rocks.SM_Skulls_and_rocks
+[2025.02.24-14.57.48:050][379]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StudentWork/Assessment_two_work/SM_Skulls_and_rocks.SM_Skulls_and_rocks
+[2025.02.24-14.57.48:051][379]LogActorFactory: Actor Factory spawned StaticMesh /Game/StudentWork/Assessment_two_work/SM_Skulls_and_rocks.SM_Skulls_and_rocks as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_274
+[2025.02.24-14.57.49:447][536]Cmd: TRANSACTION UNDO
+[2025.02.24-14.57.49:447][536]LogEditorTransaction: Undo Place Objects
+[2025.02.24-14.58.30:877][263]LogEditorViewport: Clicking Background
+[2025.02.24-15.00.17:378][353]LogEditorViewport: Clicking Background
+[2025.02.24-15.00.18:202][431]Cmd: DELETE
+[2025.02.24-15.00.18:202][431]Cmd: ACTOR DELETE
+[2025.02.24-15.00.18:207][431]LogEditorActor: Actor Rock_29 is referenced by GroupActor_3.
+[2025.02.24-15.00.22:223][431]LogSlate: Window 'Message' being destroyed
+[2025.02.24-15.00.22:230][431]Message dialog closed, result: No, title: Message, text: Actor Rock_29 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_3
+[2025.02.24-15.00.22:230][431]LogEditorActor: Actor Rock_Skull62 is referenced by GroupActor_3.
+[2025.02.24-15.00.23:819][431]LogSlate: Window 'Message' being destroyed
+[2025.02.24-15.00.23:826][431]Message dialog closed, result: No, title: Message, text: Actor Rock_Skull62 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_3
+[2025.02.24-15.00.23:826][431]LogEditorActor: Actor Rock_30 is referenced by GroupActor_3.
+[2025.02.24-15.00.24:633][431]LogSlate: Window 'Message' being destroyed
+[2025.02.24-15.00.24:639][431]Message dialog closed, result: No, title: Message, text: Actor Rock_30 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_3
+[2025.02.24-15.00.24:639][431]LogEditorActor: Actor PointLight145 is referenced by GroupActor_3.
+[2025.02.24-15.00.25:340][431]LogSlate: Window 'Message' being destroyed
+[2025.02.24-15.00.25:346][431]Message dialog closed, result: No, title: Message, text: Actor PointLight145 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_3
+[2025.02.24-15.00.25:346][431]LogEditorActor: Actor PointLight146 is referenced by GroupActor_3.
+[2025.02.24-15.00.26:052][431]LogSlate: Window 'Message' being destroyed
+[2025.02.24-15.00.26:057][431]Message dialog closed, result: No, title: Message, text: Actor PointLight146 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_3
+[2025.02.24-15.00.26:057][431]LogEditorActor: Actor Rock_Skull63 is referenced by GroupActor_3.
+[2025.02.24-15.00.26:616][431]LogSlate: Window 'Message' being destroyed
+[2025.02.24-15.00.26:622][431]Message dialog closed, result: No, title: Message, text: Actor Rock_Skull63 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_3
+[2025.02.24-15.00.26:622][431]LogEditorActor: Actor PointLight147 is referenced by GroupActor_3.
+[2025.02.24-15.00.27:427][431]LogSlate: Window 'Message' being destroyed
+[2025.02.24-15.00.27:433][431]Message dialog closed, result: No, title: Message, text: Actor PointLight147 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_3
+[2025.02.24-15.00.27:433][431]LogEditorActor: Actor PointLight148 is referenced by GroupActor_3.
+[2025.02.24-15.00.30:194][431]LogSlate: Window 'Message' being destroyed
+[2025.02.24-15.00.30:201][431]Message dialog closed, result: NoAll, title: Message, text: Actor PointLight148 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_3
+[2025.02.24-15.00.30:207][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.02.24-15.00.30:208][431]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2025.02.24-15.00.31:734][590]LogEditorViewport: Clicking Background
+[2025.02.24-15.00.41:193][713]LogEditorViewport: Clicking Background
+[2025.02.24-15.00.52:422][ 27]Cmd: TRANSACTION UNDO
+[2025.02.24-15.00.52:422][ 27]LogEditorTransaction: Undo Group Selected
+[2025.02.24-15.00.52:813][ 32]Cmd: TRANSACTION UNDO
+[2025.02.24-15.00.52:813][ 32]LogEditorTransaction: Undo Group Selected
+[2025.02.24-15.00.53:082][ 34]Cmd: TRANSACTION UNDO
+[2025.02.24-15.00.53:082][ 34]LogEditorTransaction: Undo Group Selected
+[2025.02.24-15.00.54:804][220]Cmd: TRANSACTION UNDO
+[2025.02.24-15.00.54:804][220]LogEditorTransaction: Undo Clicking on Elements
+[2025.02.24-15.00.55:510][299]Cmd: TRANSACTION UNDO
+[2025.02.24-15.00.55:510][299]LogEditorTransaction: Undo Group Selected
+[2025.02.24-15.00.55:945][343]Cmd: TRANSACTION UNDO
+[2025.02.24-15.00.55:945][343]LogEditorTransaction: Undo Clicking on Elements
+[2025.02.24-15.00.57:273][432]LogEditorViewport: Clicking Background
+[2025.02.24-15.01.07:726][454]Cmd: DELETE
+[2025.02.24-15.01.07:726][454]Cmd: ACTOR DELETE
+[2025.02.24-15.01.07:732][454]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.24-15.01.07:736][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.24-15.01.07:738][454]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2025.02.24-15.01.08:619][558]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2804.417236
+[2025.02.24-15.01.08:742][573]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.24-15.01.08:742][573]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2804.533447, Update Interval: 329.929504
+[2025.02.24-15.02.51:732][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.02.24-15.02.51:791][953]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StartMap_Auto2
+[2025.02.24-15.02.51:791][953]LogSavePackage: Moving '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/StartMap_Auto2FE42617A46930084E3FE8EBA4F4B4718.tmp' to '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StartMap_Auto2.umap'
+[2025.02.24-15.02.51:792][953]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StartMap_Auto2.umap is in the /Temp path, will not scan.
+[2025.02.24-15.02.51:792][953]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartMap' took 0.065
+[2025.02.24-15.02.51:792][953]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2025.02.24-15.02.51:793][953]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StudentWork/Assessment_two_work/SM_Skulls_and_rocks] ([1] browsable assets)...
+[2025.02.24-15.02.51:825][953]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StudentWork/Assessment_two_work/SM_Skulls_and_rocks.SM_Skulls_and_rocks]
+[2025.02.24-15.02.51:825][953]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Assessment_two_work/SM_Skulls_and_rocks]
+[2025.02.24-15.02.51:828][953]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StudentWork/Assessment_two_work/SM_Skulls_and_rocks_Auto2
+[2025.02.24-15.02.51:828][953]LogSavePackage: Moving '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/SM_Skulls_and_rocks_Auto2E503C1BE44A748994CECF98B1539DECB.tmp' to '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StudentWork/Assessment_two_work/SM_Skulls_and_rocks_Auto2.uasset'
+[2025.02.24-15.02.51:829][953]LogFileHelpers: Auto-saving content packages took 0.036
+[2025.02.24-15.03.18:168][908]Cmd: TRANSACTION UNDO
+[2025.02.24-15.03.18:168][908]LogEditorTransaction: Undo Move Elements
+[2025.02.24-15.03.51:311][500]Cmd: DELETE
+[2025.02.24-15.03.51:311][500]Cmd: ACTOR DELETE
+[2025.02.24-15.03.51:317][500]LogEditorActor: Deleted Actor: NiagaraActor
+[2025.02.24-15.03.51:322][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.02.24-15.03.51:324][500]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2025.02.24-15.04.00:154][536]Cmd: MODE GRID=1
+[2025.02.24-15.04.08:485][484]Cmd: TRANSACTION UNDO
+[2025.02.24-15.04.08:485][484]LogEditorTransaction: Undo Move Elements
+[2025.02.24-15.04.17:347][425]Cmd: TRANSACTION UNDO
+[2025.02.24-15.04.17:347][425]LogEditorTransaction: Undo Move Elements
+[2025.02.24-15.04.21:278][822]Cmd: MODE GRID=0
+[2025.02.24-15.04.21:730][876]Cmd: MODE GRID=1
+[2025.02.24-15.04.49:245][ 54]LogEditorViewport: Clicking Background
+[2025.02.24-15.05.20:766][304]LogEditorViewport: Clicking Background
+[2025.02.24-15.05.32:716][456]LogEditorViewport: Clicking Background
+[2025.02.24-15.05.33:700][571]Cmd: TRANSACTION UNDO
+[2025.02.24-15.05.33:700][571]LogEditorTransaction: Undo Clicking Background
+[2025.02.24-15.05.34:140][578]Cmd: TRANSACTION UNDO
+[2025.02.24-15.05.34:140][578]LogEditorTransaction: Undo Clicking on Elements
+[2025.02.24-15.05.34:591][611]Cmd: TRANSACTION UNDO
+[2025.02.24-15.05.34:591][611]LogEditorTransaction: Undo Clicking Background
+[2025.02.24-15.05.47:085][978]LogEditorViewport: Clicking Background
+[2025.02.24-15.05.51:620][457]Cmd: DELETE
+[2025.02.24-15.05.51:620][457]Cmd: ACTOR DELETE
+[2025.02.24-15.05.51:627][457]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.24-15.05.51:632][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.02.24-15.05.51:634][457]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2025.02.24-15.05.52:329][532]Cmd: DELETE
+[2025.02.24-15.05.52:329][532]Cmd: ACTOR DELETE
+[2025.02.24-15.05.52:336][532]LogEditorActor: Deleted Actor: PointLight
+[2025.02.24-15.05.52:342][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.02.24-15.05.52:344][532]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2025.02.24-15.05.53:094][616]Cmd: DELETE
+[2025.02.24-15.05.53:094][616]Cmd: ACTOR DELETE
+[2025.02.24-15.05.53:100][616]LogEditorActor: Deleted Actor: PointLight
+[2025.02.24-15.05.53:107][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.02.24-15.05.53:109][616]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.02.24-15.06.13:221][927]LogEditorViewport: Clicking Background
+[2025.02.24-15.06.26:714][459]LogEditorViewport: Clicking Background
+[2025.02.24-15.06.30:183][866]LogEditorViewport: Clicking Background
+[2025.02.24-15.07.14:006][830]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3169.812744
+[2025.02.24-15.07.15:006][833]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.24-15.07.15:006][833]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3170.479248, Update Interval: 311.969971
+[2025.02.24-15.09.09:023][931]LogEditorViewport: Clicking Background
+[2025.02.24-15.11.55:656][954]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.24-15.11.55:785][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.02.24-15.11.55:855][954]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.02.24-15.11.55:855][954]LogSavePackage: Moving '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/StartMapFD6D018D419AB85446B100B8D4CE686A.tmp' to '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StartMap.umap'
+[2025.02.24-15.11.55:863][954]LogFileHelpers: All files are already saved.
+[2025.02.24-15.11.55:863][954]LogFileHelpers: Saving map 'StartMap' took 0.102
+[2025.02.24-15.11.55:874][954]LogFileHelpers: InternalPromptForCheckoutAndSave took 218.531 ms
+[2025.02.24-15.11.55:982][954]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.24-15.11.55:982][954]LogContentValidation: Enabled validators:
+[2025.02.24-15.11.55:982][954]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.24-15.11.55:982][954]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.24-15.11.55:982][954]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.24-15.11.55:982][954]LogContentValidation: Display: Validating asset /Game/StartMap.StartMap
+[2025.02.24-15.11.55:983][954]AssetCheck: /Game/StartMap Validating asset
+[2025.02.24-15.12.01:233][418]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.24-15.12.01:250][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.24-15.12.01:255][418]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.02.24-15.12.01:255][418]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.02.24-15.12.01:255][418]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.02.24-15.12.01:275][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019800s)
+[2025.02.24-15.12.01:275][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.019837s)
+[2025.02.24-15.12.01:281][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.02.24-15.12.01:281][418]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.02.24-15.12.01:282][418]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2025.02.24-15.12.01:316][418]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.02.24-15.12.01:316][418]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.24-15.12.01:316][418]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.24-15.12.01:316][418]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.24-15.12.01:316][418]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.24-15.12.01:316][418]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.24-15.12.01:316][418]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.24-15.12.01:316][418]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.24-15.12.01:316][418]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.24-15.12.01:317][418]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.24-15.12.01:317][418]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.24-15.12.01:317][418]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.24-15.12.01:318][418]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.24-15.12.01:332][418]LogAudioMixer: Display: Using Audio Hardware Device 27G2WG3- (NVIDIA High Definition Audio)
+[2025.02.24-15.12.01:332][418]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.24-15.12.01:332][418]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.24-15.12.01:332][418]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.24-15.12.01:333][418]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.02.24-15.12.01:333][418]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.02.24-15.12.01:334][418]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.02.24-15.12.01:334][418]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.02.24-15.12.01:334][418]LogInit: FAudioDevice initialized with ID 2.
+[2025.02.24-15.12.01:334][418]LogAudio: Display: Audio Device (ID: 2) registered with world 'StartMap'.
+[2025.02.24-15.12.01:334][418]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.02.24-15.12.01:352][418]LogLoad: Game class is 'MechGameMode_C'
+[2025.02.24-15.12.01:361][418]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.02.24-15.12.01
+[2025.02.24-15.12.01:366][418]LogWorld: Bringing up level for play took: 0.013434
+[2025.02.24-15.12.01:368][418]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.02.24-15.12.01:376][418]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.02.24-15.12.01:376][418]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.02.24-15.12.01:441][418]PIE: Server logged in
+[2025.02.24-15.12.01:442][418]PIE: Play in editor total start time 0.202 seconds.
+[2025.02.24-15.12.33:917][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.24-15.12.33:917][887]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.02.24-15.12.33:918][887]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-15.12.33:920][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-15.12.33:921][887]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.02.24-15.12.33:921][887]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.02.24-15.12.33:923][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.24-15.12.33:926][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-15.12.33:933][887]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.24-15.12.33:934][887]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.02.24-15.12.33:934][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.02.24-15.12.33:936][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.02.24-15.12.33:938][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.24-15.12.33:943][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.02.24-15.12.34:008][888]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.02.24-15.12.56:882][304]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3512.688721
+[2025.02.24-15.12.57:014][318]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.24-15.12.57:014][318]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3512.812012, Update Interval: 313.594177
+[2025.02.24-15.13.45:545][334]LogEditorViewport: Clicking Background
+[2025.02.24-15.14.08:927][704]Cmd: SELECT NONE
+[2025.02.24-15.14.09:504][747]Cmd: SELECT NONE
+[2025.02.24-15.14.18:797][288]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2025.02.24-15.14.18:797][288]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2025.02.24-15.14.18:799][288]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/StartMap.StartMap:PersistentLevel.TriggerBox_0
+[2025.02.24-15.14.18:799][288]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/StartMap.StartMap:PersistentLevel.TriggerBox_0
+[2025.02.24-15.14.23:950][295]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074048A00) on the [0x00000B1051762380, 3D] queue has not completed after 5.000107 seconds.
+[2025.02.24-15.14.23:959][295]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074042100) on the [0x00000B1051762980, Compute] queue has not completed after 5.000000 seconds.
+[2025.02.24-15.14.24:171][295]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074040180) on the [0x00000B1051762380, 3D] queue has not completed after 5.222266 seconds.
+[2025.02.24-15.14.24:172][295]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B107404B880) on the [0x00000B1051762380, 3D] queue has not completed after 5.222688 seconds.
+[2025.02.24-15.14.24:174][295]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074049780) on the [0x00000B1051762380, 3D] queue has not completed after 5.217682 seconds.
+[2025.02.24-15.14.24:176][295]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074044800) on the [0x00000B1051762380, 3D] queue has not completed after 5.218615 seconds.
+[2025.02.24-15.14.24:206][295]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074045D00) on the [0x00000B1051762380, 3D] queue has not completed after 5.247326 seconds.
+[2025.02.24-15.14.24:206][295]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074044C80) on the [0x00000B1051762380, 3D] queue has not completed after 5.247331 seconds.
+[2025.02.24-15.14.24:208][295]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074047F80) on the [0x00000B1051762980, Compute] queue has not completed after 5.248865 seconds.
+[2025.02.24-15.14.24:208][295]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074040780) on the [0x00000B1051762980, Compute] queue has not completed after 5.248915 seconds.
+[2025.02.24-15.14.24:210][295]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B107404BA00) on the [0x00000B1051762380, 3D] queue has not completed after 5.251508 seconds.
+[2025.02.24-15.14.24:212][295]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074047800) on the [0x00000B1051762380, 3D] queue has not completed after 5.253265 seconds.
+[2025.02.24-15.14.24:212][295]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074046480) on the [0x00000B1051762380, 3D] queue has not completed after 5.253320 seconds.
+[2025.02.24-15.14.24:219][295]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B107404C000) on the [0x00000B1051762380, 3D] queue has not completed after 5.260701 seconds.
+[2025.02.24-15.14.24:224][295]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074045280) on the [0x00000B1051762380, 3D] queue has not completed after 5.265364 seconds.
+[2025.02.24-15.14.24:225][295]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074044F80) on the [0x00000B1051762380, 3D] queue has not completed after 5.266888 seconds.
+[2025.02.24-15.14.24:227][295]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074041C80) on the [0x00000B1051762980, Compute] queue has not completed after 5.265563 seconds.
+[2025.02.24-15.14.24:227][295]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074047C80) on the [0x00000B1051762980, Compute] queue has not completed after 5.265675 seconds.
+[2025.02.24-15.14.24:228][295]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B107404AE00) on the [0x00000B1051762380, 3D] queue has not completed after 5.269818 seconds.
+[2025.02.24-15.14.24:232][295]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B107404AB00) on the [0x00000B1051762380, 3D] queue has not completed after 5.273155 seconds.
+[2025.02.24-15.14.24:232][295]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074044200) on the [0x00000B1051762380, 3D] queue has not completed after 5.272400 seconds.
+[2025.02.24-15.14.24:285][296]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074047B00) on the [0x00000B1051762380, 3D] queue has not completed after 5.323772 seconds.
+[2025.02.24-15.14.24:357][296]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074041B00) on the [0x00000B1051762380, 3D] queue has not completed after 5.396132 seconds.
+[2025.02.24-15.14.24:360][296]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074042580) on the [0x00000B1051762380, 3D] queue has not completed after 5.398937 seconds.
+[2025.02.24-15.14.24:361][296]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074049C00) on the [0x00000B1051762380, 3D] queue has not completed after 5.399932 seconds.
+[2025.02.24-15.14.24:365][296]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074047080) on the [0x00000B1051762980, Compute] queue has not completed after 5.403036 seconds.
+[2025.02.24-15.14.24:367][296]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074046780) on the [0x00000B1051762380, 3D] queue has not completed after 5.405711 seconds.
+[2025.02.24-15.14.24:367][296]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074044680) on the [0x00000B1051762380, 3D] queue has not completed after 5.405855 seconds.
+[2025.02.24-15.14.24:368][296]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074043600) on the [0x00000B1051762380, 3D] queue has not completed after 5.406165 seconds.
+[2025.02.24-15.14.24:368][296]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B107404AF80) on the [0x00000B1051762380, 3D] queue has not completed after 5.406273 seconds.
+[2025.02.24-15.14.24:368][296]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074047500) on the [0x00000B1051762380, 3D] queue has not completed after 5.405726 seconds.
+[2025.02.24-15.14.24:369][296]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B1074049D80) on the [0x00000B1051762380, 3D] queue has not completed after 5.406361 seconds.
+[2025.02.24-15.15.05:059][814]Cmd: DELETE
+[2025.02.24-15.15.05:059][814]Cmd: ACTOR DELETE
+[2025.02.24-15.15.05:068][814]LogEditorActor: Deleted Actor: TriggerBox
+[2025.02.24-15.15.05:079][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.02.24-15.15.05:080][814]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.02.24-15.16.14:270][877]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.02.24-15.16.14:270][877]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.02.24-15.16.14:271][877]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/StartMap.StartMap:PersistentLevel.NavMeshBoundsVolume_0
+[2025.02.24-15.16.14:274][877]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/StartMap.StartMap:PersistentLevel.NavMeshBoundsVolume_0
+[2025.02.24-15.16.16:061][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.02.24-15.16.16:063][ 33]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2025.02.24-15.16.16:069][ 33]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.02.24-15.16.16:069][ 33]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.02.24-15.16.16:070][ 33]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/StartMap.StartMap:PersistentLevel.NavMeshBoundsVolume_2
+[2025.02.24-15.16.16:071][ 33]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/StartMap.StartMap:PersistentLevel.NavMeshBoundsVolume_2
+[2025.02.24-15.16.20:392][388]LogDerivedDataCache: C:/Users/ClassyXpert/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.24-15.17.06:154][345]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.24-15.17.06:835][419]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.24-15.17.15:903][281]LogEditorViewport: Clicking Background
+[2025.02.24-15.18.08:107][396]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/BP_Enemy_RMRF.BP_Enemy_RMRF_C
+[2025.02.24-15.18.08:108][396]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/BP_Enemy_RMRF.BP_Enemy_RMRF_C
+[2025.02.24-15.18.08:111][396]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/BP_Enemy_RMRF.BP_Enemy_RMRF as actor: BP_Enemy_RMRF_C /Game/StartMap.StartMap:PersistentLevel.BP_Enemy_RMRF_C_0
+[2025.02.24-15.18.08:112][396]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/BP_Enemy_RMRF.BP_Enemy_RMRF as actor: BP_Enemy_RMRF_C /Game/StartMap.StartMap:PersistentLevel.BP_Enemy_RMRF_C_0
+[2025.02.24-15.18.13:160][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.02.24-15.18.13:179][851]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.02.24-15.18.13:186][851]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/BP_Enemy_RMRF.BP_Enemy_RMRF_C
+[2025.02.24-15.18.13:186][851]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/BP_Enemy_RMRF.BP_Enemy_RMRF_C
+[2025.02.24-15.18.13:189][851]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/BP_Enemy_RMRF.BP_Enemy_RMRF as actor: BP_Enemy_RMRF_C /Game/StartMap.StartMap:PersistentLevel.BP_Enemy_RMRF_C_1
+[2025.02.24-15.18.13:190][851]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/BP_Enemy_RMRF.BP_Enemy_RMRF as actor: BP_Enemy_RMRF_C /Game/StartMap.StartMap:PersistentLevel.BP_Enemy_RMRF_C_1
+[2025.02.24-15.18.15:584][ 63]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/BP_Enemy_RMRF.BP_Enemy_RMRF_C
+[2025.02.24-15.18.15:584][ 63]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/BP_Enemy_RMRF.BP_Enemy_RMRF_C
+[2025.02.24-15.18.15:585][ 63]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/BP_Enemy_RMRF.BP_Enemy_RMRF as actor: BP_Enemy_RMRF_C /Game/StartMap.StartMap:PersistentLevel.BP_Enemy_RMRF_C_2
+[2025.02.24-15.18.15:587][ 63]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/BP_Enemy_RMRF.BP_Enemy_RMRF as actor: BP_Enemy_RMRF_C /Game/StartMap.StartMap:PersistentLevel.BP_Enemy_RMRF_C_2
+[2025.02.24-15.18.18:361][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.02.24-15.18.18:362][282]LogEditorActor: Deleted 0 Actors (0.010 secs)
+[2025.02.24-15.18.18:369][282]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/BP_Enemy_RMRF.BP_Enemy_RMRF_C
+[2025.02.24-15.18.18:369][282]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/BP_Enemy_RMRF.BP_Enemy_RMRF_C
+[2025.02.24-15.18.18:372][282]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/BP_Enemy_RMRF.BP_Enemy_RMRF as actor: BP_Enemy_RMRF_C /Game/StartMap.StartMap:PersistentLevel.BP_Enemy_RMRF_C_3
+[2025.02.24-15.18.18:374][282]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/BP_Enemy_RMRF.BP_Enemy_RMRF as actor: BP_Enemy_RMRF_C /Game/StartMap.StartMap:PersistentLevel.BP_Enemy_RMRF_C_3
+[2025.02.24-15.18.23:686][792]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.24-15.18.23:700][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.24-15.18.23:721][792]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.02.24-15.18.23:738][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018030s)
+[2025.02.24-15.18.23:738][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.018062s)
+[2025.02.24-15.18.23:745][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.02.24-15.18.23:745][792]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.02.24-15.18.23:746][792]LogPlayLevel: PIE: World Init took: (0.000700s)
+[2025.02.24-15.18.23:779][792]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.02.24-15.18.23:779][792]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.24-15.18.23:779][792]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.24-15.18.23:779][792]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.24-15.18.23:779][792]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.24-15.18.23:779][792]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.24-15.18.23:779][792]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.24-15.18.23:779][792]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.24-15.18.23:779][792]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.24-15.18.23:779][792]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.24-15.18.23:779][792]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.24-15.18.23:779][792]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.24-15.18.23:780][792]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.24-15.18.23:794][792]LogAudioMixer: Display: Using Audio Hardware Device 27G2WG3- (NVIDIA High Definition Audio)
+[2025.02.24-15.18.23:794][792]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.24-15.18.23:794][792]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.24-15.18.23:794][792]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.24-15.18.23:795][792]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.02.24-15.18.23:795][792]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.02.24-15.18.23:796][792]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.02.24-15.18.23:796][792]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.02.24-15.18.23:796][792]LogInit: FAudioDevice initialized with ID 3.
+[2025.02.24-15.18.23:796][792]LogAudio: Display: Audio Device (ID: 3) registered with world 'StartMap'.
+[2025.02.24-15.18.23:796][792]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.02.24-15.18.23:799][792]LogLoad: Game class is 'MechGameMode_C'
+[2025.02.24-15.18.23:807][792]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.02.24-15.18.23
+[2025.02.24-15.18.23:808][792]LogWorld: Bringing up level for play took: 0.009407
+[2025.02.24-15.18.23:810][792]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.02.24-15.18.23:812][792]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.02.24-15.18.23:812][792]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.02.24-15.18.23:847][792]PIE: Server logged in
+[2025.02.24-15.18.23:847][792]PIE: Play in editor total start time 0.156 seconds.
+[2025.02.24-15.18.42:546][708]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3858.344727
+[2025.02.24-15.18.42:684][723]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.24-15.18.42:684][723]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3858.473145, Update Interval: 319.461029
+[2025.02.24-15.19.10:736][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.24-15.19.10:736][797]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.02.24-15.19.10:736][797]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-15.19.10:738][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-15.19.10:739][797]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.02.24-15.19.10:739][797]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.02.24-15.19.10:741][797]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.24-15.19.10:743][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-15.19.10:749][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.24-15.19.10:751][797]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.02.24-15.19.10:751][797]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.02.24-15.19.10:752][797]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.02.24-15.19.10:759][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.02.24-15.19.10:865][798]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.02.24-15.19.20:107][764]Cmd: DELETE
+[2025.02.24-15.19.20:107][764]Cmd: ACTOR DELETE
+[2025.02.24-15.19.20:116][764]LogEditorActor: Deleted Actor: BP_Enemy_RMRF_C
+[2025.02.24-15.19.20:117][764]LogEditorActor: Deleted Actor: BP_Enemy_RMRF_C
+[2025.02.24-15.19.20:126][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.02.24-15.19.20:127][764]LogEditorActor: Deleted 2 Actors (0.020 secs)
+[2025.02.24-15.19.22:136][938]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/BP_Enemy_Random_Mover_Aim.BP_Enemy_Random_Mover_Aim_C
+[2025.02.24-15.19.22:136][938]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/BP_Enemy_Random_Mover_Aim.BP_Enemy_Random_Mover_Aim_C
+[2025.02.24-15.19.22:138][938]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/BP_Enemy_Random_Mover_Aim.BP_Enemy_Random_Mover_Aim as actor: BP_Enemy_Random_Mover_Aim_C /Game/StartMap.StartMap:PersistentLevel.BP_Enemy_Random_Mover_Aim_C_0
+[2025.02.24-15.19.22:139][938]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/BP_Enemy_Random_Mover_Aim.BP_Enemy_Random_Mover_Aim as actor: BP_Enemy_Random_Mover_Aim_C /Game/StartMap.StartMap:PersistentLevel.BP_Enemy_Random_Mover_Aim_C_0
+[2025.02.24-15.19.24:023][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.02.24-15.19.24:025][108]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2025.02.24-15.19.24:031][108]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/BP_Enemy_Random_Mover_Aim.BP_Enemy_Random_Mover_Aim_C
+[2025.02.24-15.19.24:031][108]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/BP_Enemy_Random_Mover_Aim.BP_Enemy_Random_Mover_Aim_C
+[2025.02.24-15.19.24:034][108]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/BP_Enemy_Random_Mover_Aim.BP_Enemy_Random_Mover_Aim as actor: BP_Enemy_Random_Mover_Aim_C /Game/StartMap.StartMap:PersistentLevel.BP_Enemy_Random_Mover_Aim_C_1
+[2025.02.24-15.19.24:036][108]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/BP_Enemy_Random_Mover_Aim.BP_Enemy_Random_Mover_Aim as actor: BP_Enemy_Random_Mover_Aim_C /Game/StartMap.StartMap:PersistentLevel.BP_Enemy_Random_Mover_Aim_C_1
+[2025.02.24-15.19.48:650][575]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/BP_Enemy_Random_Mover_Aim.BP_Enemy_Random_Mover_Aim_C
+[2025.02.24-15.19.48:650][575]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/BP_Enemy_Random_Mover_Aim.BP_Enemy_Random_Mover_Aim_C
+[2025.02.24-15.19.48:651][575]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/BP_Enemy_Random_Mover_Aim.BP_Enemy_Random_Mover_Aim as actor: BP_Enemy_Random_Mover_Aim_C /Game/StartMap.StartMap:PersistentLevel.BP_Enemy_Random_Mover_Aim_C_2
+[2025.02.24-15.19.48:652][575]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/BP_Enemy_Random_Mover_Aim.BP_Enemy_Random_Mover_Aim as actor: BP_Enemy_Random_Mover_Aim_C /Game/StartMap.StartMap:PersistentLevel.BP_Enemy_Random_Mover_Aim_C_2
+[2025.02.24-15.19.50:374][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.02.24-15.19.50:376][726]LogEditorActor: Deleted 0 Actors (0.009 secs)
+[2025.02.24-15.19.50:383][726]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/BP_Enemy_Random_Mover_Aim.BP_Enemy_Random_Mover_Aim_C
+[2025.02.24-15.19.50:383][726]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/BP_Enemy_Random_Mover_Aim.BP_Enemy_Random_Mover_Aim_C
+[2025.02.24-15.19.50:386][726]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/BP_Enemy_Random_Mover_Aim.BP_Enemy_Random_Mover_Aim as actor: BP_Enemy_Random_Mover_Aim_C /Game/StartMap.StartMap:PersistentLevel.BP_Enemy_Random_Mover_Aim_C_3
+[2025.02.24-15.19.50:388][726]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/BP_Enemy_Random_Mover_Aim.BP_Enemy_Random_Mover_Aim as actor: BP_Enemy_Random_Mover_Aim_C /Game/StartMap.StartMap:PersistentLevel.BP_Enemy_Random_Mover_Aim_C_3
+[2025.02.24-15.19.54:187][ 96]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.24-15.19.54:200][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.24-15.19.54:200][ 96]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.02.24-15.19.54:219][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018763s)
+[2025.02.24-15.19.54:219][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.018788s)
+[2025.02.24-15.19.54:224][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.02.24-15.19.54:225][ 96]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.02.24-15.19.54:225][ 96]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2025.02.24-15.19.54:258][ 96]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.02.24-15.19.54:258][ 96]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.24-15.19.54:258][ 96]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.24-15.19.54:258][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.24-15.19.54:258][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.24-15.19.54:258][ 96]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.24-15.19.54:258][ 96]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.24-15.19.54:258][ 96]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.24-15.19.54:258][ 96]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.24-15.19.54:258][ 96]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.24-15.19.54:258][ 96]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.24-15.19.54:258][ 96]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.24-15.19.54:259][ 96]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.24-15.19.54:272][ 96]LogAudioMixer: Display: Using Audio Hardware Device 27G2WG3- (NVIDIA High Definition Audio)
+[2025.02.24-15.19.54:273][ 96]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.24-15.19.54:273][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.24-15.19.54:273][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.24-15.19.54:273][ 96]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.02.24-15.19.54:273][ 96]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.02.24-15.19.54:274][ 96]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.02.24-15.19.54:275][ 96]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.02.24-15.19.54:275][ 96]LogInit: FAudioDevice initialized with ID 4.
+[2025.02.24-15.19.54:275][ 96]LogAudio: Display: Audio Device (ID: 4) registered with world 'StartMap'.
+[2025.02.24-15.19.54:275][ 96]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.02.24-15.19.54:283][ 96]LogLoad: Game class is 'MechGameMode_C'
+[2025.02.24-15.19.54:291][ 96]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.02.24-15.19.54
+[2025.02.24-15.19.54:292][ 96]LogWorld: Bringing up level for play took: 0.009705
+[2025.02.24-15.19.54:294][ 96]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.02.24-15.19.54:295][ 96]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.02.24-15.19.54:295][ 96]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.02.24-15.19.54:330][ 96]PIE: Server logged in
+[2025.02.24-15.19.54:330][ 96]PIE: Play in editor total start time 0.139 seconds.
+[2025.02.24-15.20.11:067][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.24-15.20.11:067][837]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.02.24-15.20.11:067][837]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-15.20.11:069][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-15.20.11:069][837]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.02.24-15.20.11:069][837]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.02.24-15.20.11:071][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.24-15.20.11:074][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-15.20.11:080][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.24-15.20.11:081][837]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.02.24-15.20.11:081][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.02.24-15.20.11:082][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.02.24-15.20.11:090][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.02.24-15.20.11:193][838]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.02.24-15.20.43:600][600]LogTexture: Display: Building textures: /Game/Textures/T_AlphaFade_M.T_AlphaFade_M (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2025.02.24-15.20.43:600][600]LogStaticMesh: Display: Building static mesh SM_FadingCube (Required Memory Estimate: 0.02667 MB)...
+[2025.02.24-15.20.43:602][600]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/SciFi/SM_FadingCube.SM_FadingCube
+[2025.02.24-15.20.43:701][601]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/MiscBlueprints/BP_Checkpoint.BP_Checkpoint_C
+[2025.02.24-15.20.43:701][601]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/MiscBlueprints/BP_Checkpoint.BP_Checkpoint_C
+[2025.02.24-15.20.43:702][601]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/MiscBlueprints/BP_Checkpoint.BP_Checkpoint as actor: BP_Checkpoint_C /Game/StartMap.StartMap:PersistentLevel.BP_Checkpoint_C_0
+[2025.02.24-15.20.43:704][601]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/MiscBlueprints/BP_Checkpoint.BP_Checkpoint as actor: BP_Checkpoint_C /Game/StartMap.StartMap:PersistentLevel.BP_Checkpoint_C_0
+[2025.02.24-15.20.45:320][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.02.24-15.20.45:382][734]LogEditorActor: Deleted 0 Actors (0.073 secs)
+[2025.02.24-15.20.45:390][734]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/MiscBlueprints/BP_Checkpoint.BP_Checkpoint_C
+[2025.02.24-15.20.45:390][734]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/MiscBlueprints/BP_Checkpoint.BP_Checkpoint_C
+[2025.02.24-15.20.45:393][734]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/MiscBlueprints/BP_Checkpoint.BP_Checkpoint as actor: BP_Checkpoint_C /Game/StartMap.StartMap:PersistentLevel.BP_Checkpoint_C_1
+[2025.02.24-15.20.45:394][734]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/MiscBlueprints/BP_Checkpoint.BP_Checkpoint as actor: BP_Checkpoint_C /Game/StartMap.StartMap:PersistentLevel.BP_Checkpoint_C_1
+[2025.02.24-15.20.58:906][ 17]Cmd: TRANSACTION UNDO
+[2025.02.24-15.20.58:906][ 17]LogEditorTransaction: Undo Scale Elements
+[2025.02.24-15.21.06:982][789]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.24-15.21.06:994][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.24-15.21.07:025][789]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.02.24-15.21.07:043][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018385s)
+[2025.02.24-15.21.07:043][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.018417s)
+[2025.02.24-15.21.07:050][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.02.24-15.21.07:052][789]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.02.24-15.21.07:052][789]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2025.02.24-15.21.07:085][789]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.02.24-15.21.07:085][789]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.24-15.21.07:085][789]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.24-15.21.07:085][789]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.24-15.21.07:085][789]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.24-15.21.07:085][789]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.24-15.21.07:085][789]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.24-15.21.07:085][789]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.24-15.21.07:085][789]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.24-15.21.07:085][789]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.24-15.21.07:085][789]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.24-15.21.07:085][789]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.24-15.21.07:087][789]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.24-15.21.07:100][789]LogAudioMixer: Display: Using Audio Hardware Device 27G2WG3- (NVIDIA High Definition Audio)
+[2025.02.24-15.21.07:100][789]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.24-15.21.07:100][789]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.24-15.21.07:100][789]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.24-15.21.07:101][789]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.02.24-15.21.07:101][789]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.02.24-15.21.07:102][789]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.02.24-15.21.07:102][789]LogInit: FAudioDevice initialized with ID 5.
+[2025.02.24-15.21.07:102][789]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.02.24-15.21.07:102][789]LogAudio: Display: Audio Device (ID: 5) registered with world 'StartMap'.
+[2025.02.24-15.21.07:102][789]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.02.24-15.21.07:104][789]LogLoad: Game class is 'MechGameMode_C'
+[2025.02.24-15.21.07:112][789]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.02.24-15.21.07
+[2025.02.24-15.21.07:114][789]LogWorld: Bringing up level for play took: 0.009404
+[2025.02.24-15.21.07:115][789]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.02.24-15.21.07:117][789]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.02.24-15.21.07:117][789]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.02.24-15.21.07:150][789]PIE: Server logged in
+[2025.02.24-15.21.07:150][789]PIE: Play in editor total start time 0.162 seconds.
+[2025.02.24-15.21.26:286][764]LogBlueprintUserMessages: [WBP_PickUpNotification_C_0] dead
+[2025.02.24-15.21.30:660][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.24-15.21.42:479][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.24-15.21.42:479][584]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.02.24-15.21.42:479][584]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.24-15.21.42:481][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-15.21.42:482][584]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.02.24-15.21.42:482][584]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.02.24-15.21.42:484][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.24-15.21.42:486][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.24-15.21.42:492][584]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.24-15.21.42:492][584]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.02.24-15.21.42:492][584]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.02.24-15.21.42:493][584]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.02.24-15.21.42:498][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.24-15.21.42:503][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.02.24-15.21.42:565][585]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: ================================================
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Total job queries 275, among them cache hits 104 (37.82%), DDC hits 74 (26.91%), Duplicates 3 (1.09%)
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Tracking 168 distinct input hashes that result in 132 distinct outputs (78.57%)
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: RAM used: 3.25 MiB of 1.60 GiB budget. Usage: 0.20%
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Shaders Compiled: 94
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Jobs assigned 94, completed 94 (100%)
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Average time worker was idle: 170.70 s
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 1.63 s
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Job execution time: average 0.62 s, max 2.04 s
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Job life time (pending + execution): average 0.68 s, max 2.14
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Shader code size: average 33.311 KiB, min 4.379 KiB, max 59.676 KiB
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.27 s
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Jobs were issued in 94 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Average processing rate: 6.16 jobs/sec
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Total thread time: 29.93 s
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Total thread preprocess time: 2.201 s
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Percentage time preprocessing: 7.35%
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Effective parallelization: 1.96 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.45 sec, max 0.52 sec, min 0.38 sec)
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.39 sec, max 0.41 sec, min 0.38 sec)
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   24 times, average 0.36 sec, max 0.51 sec, min 0.27 sec)
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    6 times, average 0.30 sec, max 0.36 sec, min 0.25 sec)
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 28.72% of total time (compiled   24 times, average 0.36 sec, max 0.51 sec, min 0.27 sec)
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 17.86% of total time (compiled   20 times, average 0.27 sec, max 0.37 sec, min 0.20 sec)
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display:                                                  FVelocityPS - 7.83% of total time (compiled    8 times, average 0.29 sec, max 0.38 sec, min 0.25 sec)
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.65% of total time (compiled   11 times, average 0.21 sec, max 0.28 sec, min 0.16 sec)
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap - 6.02% of total time (compiled    6 times, average 0.30 sec, max 0.36 sec, min 0.25 sec)
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: === Material stats ===
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Materials Translated:    128
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Material Translation Only: 0.02 s (23%)
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: Material Cache Hits: 25 (20%)
+[2025.02.24-15.23.28:750][584]LogShaderCompilers: Display: ================================================
+[2025.02.24-15.24.08:375][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.02.24-15.24.08:451][702]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StartMap_Auto3
+[2025.02.24-15.24.08:452][702]LogSavePackage: Moving '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/StartMap_Auto32068B6324C41E8841AD0D88B11443811.tmp' to '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StartMap_Auto3.umap'
+[2025.02.24-15.24.08:453][702]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StartMap_Auto3.umap is in the /Temp path, will not scan.
+[2025.02.24-15.24.08:453][702]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartMap' took 0.086
+[2025.02.24-15.24.08:453][702]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.086
+[2025.02.24-15.24.08:453][702]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StudentWork/Assessment_two_work/SM_Skulls_and_rocks] ([1] browsable assets)...
+[2025.02.24-15.24.08:453][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Assessment_two_work/SM_Skulls_and_rocks]
+[2025.02.24-15.24.08:455][702]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StudentWork/Assessment_two_work/SM_Skulls_and_rocks_Auto3
+[2025.02.24-15.24.08:455][702]LogSavePackage: Moving '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/SM_Skulls_and_rocks_Auto3BF62D19942BA805028D8948A8A2B713A.tmp' to '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StudentWork/Assessment_two_work/SM_Skulls_and_rocks_Auto3.uasset'
+[2025.02.24-15.24.08:456][702]LogFileHelpers: Auto-saving content packages took 0.003
+[2025.02.24-15.24.47:492][820]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4223.324707
+[2025.02.24-15.24.48:493][823]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.24-15.24.48:493][823]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4223.992188, Update Interval: 353.083893
+[2025.02.24-15.29.10:342][795]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.24-15.29.10:817][843]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.24-15.29.11:202][889]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.24-15.29.13:601][154]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.24-15.29.15:863][338]LogEditorViewport: Clicking Background
+[2025.02.24-15.29.22:490][926]LogWindows: LaunchURL https://docs.unrealengine.com/5.4/en/BuildingWorlds/LevelEditor?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2025.02.24-15.29.28:768][193]Cmd: EDCALLBACK SELECTEDPROPS
+[2025.02.24-15.31.21:425][246]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4617.281250
+[2025.02.24-15.31.22:425][249]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.24-15.31.22:425][249]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4617.947266, Update Interval: 359.027679
