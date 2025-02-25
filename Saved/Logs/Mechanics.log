@@ -1292,3 +1292,529 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.02.25-17.52.49:830][566]LogContentValidation: Display: Validating asset /Game/StudentWork/Assessment_two_work/Blueprint/BP_Enemy_Stationary_Sniper.BP_Enemy_Stationary_Sniper
 [2025.02.25-17.52.49:830][566]AssetCheck: /Game/StudentWork/Assessment_two_work/Blueprint/BP_Enemy_Stationary_Sniper Validating asset
 [2025.02.25-17.52.50:630][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.02.25-17.54.25:832][581]LogEditorViewport: Clicking Background
+[2025.02.25-17.54.35:486][661]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3235.996338
+[2025.02.25-17.54.36:485][664]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.25-17.54.36:485][664]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3236.662354, Update Interval: 301.442902
+[2025.02.25-18.00.13:210][674]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3573.716309
+[2025.02.25-18.00.14:210][677]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.25-18.00.14:210][677]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3574.382812, Update Interval: 326.422913
+[2025.02.25-18.02.32:269][ 92]LogDerivedDataCache: C:/Users/ClassyXpert/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.25-18.03.04:617][289]LogEditorViewport: Clicking Background
+[2025.02.25-18.03.12:029][691]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_SniperProjectile.BP_SniperProjectile
+[2025.02.25-18.03.24:876][795]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StudentWork/Assessment_two_work/Blueprint/BP_Enemy_Sniper_Projectile.BP_Enemy_Sniper_Projectile
+[2025.02.25-18.04.20:567][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.02.25-18.04.27:319][886]Cmd: DELETE
+[2025.02.25-18.04.27:319][886]Cmd: ACTOR DELETE
+[2025.02.25-18.04.27:350][886]LogEditorActor: Deleted Actor: BP_Enemy_Stationary_Sniper_C
+[2025.02.25-18.04.27:371][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.25-18.04.27:373][886]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2025.02.25-18.04.28:635][948]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.25-18.04.28:651][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.25-18.04.28:654][948]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.02.25-18.04.28:654][948]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.02.25-18.04.28:654][948]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.02.25-18.04.28:722][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067091s)
+[2025.02.25-18.04.28:722][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.067125s)
+[2025.02.25-18.04.28:750][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.25-18.04.28:751][948]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.02.25-18.04.28:752][948]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2025.02.25-18.04.28:785][948]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.02.25-18.04.28:785][948]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.25-18.04.28:785][948]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.25-18.04.28:785][948]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.25-18.04.28:785][948]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.25-18.04.28:785][948]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.25-18.04.28:785][948]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.25-18.04.28:785][948]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.25-18.04.28:785][948]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.25-18.04.28:785][948]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.25-18.04.28:785][948]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.25-18.04.28:785][948]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.25-18.04.28:787][948]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.25-18.04.28:801][948]LogAudioMixer: Display: Using Audio Hardware Device 27G2WG3- (NVIDIA High Definition Audio)
+[2025.02.25-18.04.28:801][948]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.25-18.04.28:801][948]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.25-18.04.28:801][948]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.25-18.04.28:802][948]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.02.25-18.04.28:802][948]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.02.25-18.04.28:803][948]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.02.25-18.04.28:803][948]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.02.25-18.04.28:803][948]LogInit: FAudioDevice initialized with ID 2.
+[2025.02.25-18.04.28:803][948]LogAudio: Display: Audio Device (ID: 2) registered with world 'StartMap'.
+[2025.02.25-18.04.28:803][948]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.02.25-18.04.28:820][948]LogLoad: Game class is 'MechGameMode_C'
+[2025.02.25-18.04.28:850][948]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.02.25-18.04.28
+[2025.02.25-18.04.28:854][948]LogWorld: Bringing up level for play took: 0.034155
+[2025.02.25-18.04.28:856][948]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.02.25-18.04.28:860][948]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.02.25-18.04.28:860][948]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.02.25-18.04.28:924][948]PIE: Server logged in
+[2025.02.25-18.04.28:925][948]PIE: Play in editor total start time 0.284 seconds.
+[2025.02.25-18.04.37:743][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.25-18.04.37:744][655]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.02.25-18.04.37:745][655]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-18.04.37:751][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.04.37:752][655]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.02.25-18.04.37:752][655]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.02.25-18.04.37:754][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.25-18.04.37:760][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.04.37:784][655]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.25-18.04.37:787][655]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.02.25-18.04.37:787][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.02.25-18.04.37:789][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.02.25-18.04.37:791][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.25-18.04.37:804][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.02.25-18.04.37:864][656]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.02.25-18.04.45:289][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.25-18.04.45:442][477]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/Weekly_tasks_work/Blueprints/BP_SniperProjectile] ([2] browsable assets)...
+[2025.02.25-18.04.45:507][477]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_SniperProjectile.BP_SniperProjectile]
+[2025.02.25-18.04.45:507][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Weekly_tasks_work/Blueprints/BP_SniperProjectile]
+[2025.02.25-18.04.45:511][477]LogSavePackage: Moving output files for package: /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_SniperProjectile
+[2025.02.25-18.04.45:511][477]LogSavePackage: Moving '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_SniperProjectileEF6524A4486322C34A129497630539D0.tmp' to '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/Weekly_tasks_work/Blueprints/BP_SniperProjectile.uasset'
+[2025.02.25-18.04.45:521][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 232.429 ms (total: 4.82 sec)
+[2025.02.25-18.04.45:612][477]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.25-18.04.45:612][477]LogContentValidation: Enabled validators:
+[2025.02.25-18.04.45:612][477]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.25-18.04.45:612][477]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.25-18.04.45:612][477]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.25-18.04.45:612][477]LogContentValidation: Display: Validating asset /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_SniperProjectile.BP_SniperProjectile
+[2025.02.25-18.04.45:612][477]AssetCheck: /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_SniperProjectile Validating asset
+[2025.02.25-18.05.10:876][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.02.25-18.05.11:153][623]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StartMap_Auto2
+[2025.02.25-18.05.11:153][623]LogSavePackage: Moving '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/StartMap_Auto2CE9C2ADA485EFBCD3FE5D2BDCBA50F7B.tmp' to '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StartMap_Auto2.umap'
+[2025.02.25-18.05.11:155][623]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/Autosaves/Game/StartMap_Auto2.umap is in the /Temp path, will not scan.
+[2025.02.25-18.05.11:156][623]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartMap' took 0.311
+[2025.02.25-18.05.11:156][623]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.311
+[2025.02.25-18.06.29:529][859]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3950.028076
+[2025.02.25-18.06.30:529][862]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.25-18.06.30:529][862]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3950.694824, Update Interval: 342.326111
+[2025.02.25-18.08.46:003][ 15]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-18.08.46:003][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.08.46:054][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.02.25-18.08.50:167][491]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.02.25-18.08.50:167][491]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-18.08.50:167][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.08.50:213][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.02.25-18.09.08:691][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7042100) on the [0x0000083585E33B80, 3D] queue has not completed after 5.000252 seconds.
+[2025.02.25-18.09.08:692][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7044380) on the [0x0000083585E34180, Compute] queue has not completed after 5.000000 seconds.
+[2025.02.25-18.09.08:760][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7046780) on the [0x0000083585E33B80, 3D] queue has not completed after 5.068290 seconds.
+[2025.02.25-18.09.08:768][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A704B100) on the [0x0000083585E34180, Compute] queue has not completed after 5.075545 seconds.
+[2025.02.25-18.09.08:773][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7041380) on the [0x0000083585E33B80, 3D] queue has not completed after 5.080872 seconds.
+[2025.02.25-18.09.08:773][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7040300) on the [0x0000083585E33B80, 3D] queue has not completed after 5.080909 seconds.
+[2025.02.25-18.09.08:773][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7045280) on the [0x0000083585E34180, Compute] queue has not completed after 5.080515 seconds.
+[2025.02.25-18.09.08:773][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7041980) on the [0x0000083585E34180, Compute] queue has not completed after 5.080574 seconds.
+[2025.02.25-18.09.08:773][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7046D80) on the [0x0000083585E33B80, 3D] queue has not completed after 5.081558 seconds.
+[2025.02.25-18.09.08:775][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7049180) on the [0x0000083585E33B80, 3D] queue has not completed after 5.082188 seconds.
+[2025.02.25-18.09.08:775][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000083593CCC000) on the [0x0000083585E33B80, 3D] queue has not completed after 5.082316 seconds.
+[2025.02.25-18.09.08:775][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7047500) on the [0x0000083585E33B80, 3D] queue has not completed after 5.082500 seconds.
+[2025.02.25-18.09.08:776][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7048580) on the [0x0000083585E33B80, 3D] queue has not completed after 5.083491 seconds.
+[2025.02.25-18.09.08:777][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7040F00) on the [0x0000083585E33B80, 3D] queue has not completed after 5.084037 seconds.
+[2025.02.25-18.09.08:777][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7046180) on the [0x0000083585E34180, Compute] queue has not completed after 5.080848 seconds.
+[2025.02.25-18.09.08:778][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835D540BB80) on the [0x0000083585E33B80, 3D] queue has not completed after 5.084547 seconds.
+[2025.02.25-18.09.08:778][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A704A500) on the [0x0000083585E33B80, 3D] queue has not completed after 5.085226 seconds.
+[2025.02.25-18.09.08:779][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7048A00) on the [0x0000083585E33B80, 3D] queue has not completed after 5.084091 seconds.
+[2025.02.25-18.09.08:781][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A704A680) on the [0x0000083585E34180, Compute] queue has not completed after 5.084845 seconds.
+[2025.02.25-18.09.08:781][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7044B00) on the [0x0000083585E34180, Compute] queue has not completed after 5.084559 seconds.
+[2025.02.25-18.09.08:782][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7045700) on the [0x0000083585E34180, Compute] queue has not completed after 5.084686 seconds.
+[2025.02.25-18.09.08:795][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7043600) on the [0x0000083585E33B80, 3D] queue has not completed after 5.098491 seconds.
+[2025.02.25-18.09.08:816][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7046900) on the [0x0000083585E33B80, 3D] queue has not completed after 5.120076 seconds.
+[2025.02.25-18.09.08:817][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7045E80) on the [0x0000083585E33B80, 3D] queue has not completed after 5.120077 seconds.
+[2025.02.25-18.09.08:825][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7042D00) on the [0x0000083585E33B80, 3D] queue has not completed after 5.128940 seconds.
+[2025.02.25-18.09.08:827][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A704CA80) on the [0x0000083585E33B80, 3D] queue has not completed after 5.129982 seconds.
+[2025.02.25-18.09.08:830][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7049D80) on the [0x0000083585E33B80, 3D] queue has not completed after 5.133406 seconds.
+[2025.02.25-18.09.08:831][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7049480) on the [0x0000083585E33B80, 3D] queue has not completed after 5.134129 seconds.
+[2025.02.25-18.09.08:831][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7043F00) on the [0x0000083585E33B80, 3D] queue has not completed after 5.134048 seconds.
+[2025.02.25-18.09.08:831][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A704B400) on the [0x0000083585E33B80, 3D] queue has not completed after 5.133587 seconds.
+[2025.02.25-18.09.08:835][614]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7049600) on the [0x0000083585E33B80, 3D] queue has not completed after 5.137574 seconds.
+[2025.02.25-18.09.11:064][669]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StudentWork/Weekly_tasks_work/Blueprints/TankTurretSniper.TankTurretSniper
+[2025.02.25-18.09.11:268][669]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2025.02.25-18.09.14:598][854]LogSlate: Window 'TankTurretSniper' being destroyed
+[2025.02.25-18.09.14:621][854]LogSlate: Window 'TankTurretSniper' being destroyed
+[2025.02.25-18.09.14:694][854]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-18.09.14:694][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.09.14:734][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.25-18.09.20:224][328]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_SniperPickup.BP_SniperPickup
+[2025.02.25-18.09.23:730][602]LogSlate: Window 'BP_SniperPickup' being destroyed
+[2025.02.25-18.09.27:660][ 70]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-18.09.27:660][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.09.27:673][ 70]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_SniperPickup.BP_SniperPickup
+[2025.02.25-18.09.27:775][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.02.25-18.09.31:597][501]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-18.09.31:597][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.09.31:638][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.02.25-18.09.47:334][837]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StudentWork/Assessment_two_work/Blueprint/BP_Enemy_Stationary_Sniper.BP_Enemy_Stationary_Sniper
+[2025.02.25-18.10.21:317][324]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Weapons/BP_BaseWeapon_Parent.BP_BaseWeapon_Parent
+[2025.02.25-18.10.35:765][ 32]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-18.10.35:765][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.10.35:810][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.02.25-18.10.45:056][836]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2025.02.25-18.10.45:056][836]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2025.02.25-18.10.50:387][251]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Blueprints/MiscBlueprints/IA_Fire.IA_Fire
+[2025.02.25-18.10.53:796][514]LogSlate: Window 'IA_Fire' being destroyed
+[2025.02.25-18.10.53:818][514]LogSlate: Window 'IA_Fire' being destroyed
+[2025.02.25-18.10.56:448][723]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MiscBlueprints/BP_MechPlayerController.BP_MechPlayerController
+[2025.02.25-18.11.08:274][ 61]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-18.11.08:274][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.11.08:332][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.25-18.11.16:484][761]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.02.25-18.11.16:849][763]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Blueprints/MiscBlueprints/IA_Move.IA_Move
+[2025.02.25-18.11.18:619][950]LogSlate: Window 'IA_Move' being destroyed
+[2025.02.25-18.11.18:627][950]LogSlate: Window 'IA_Move' being destroyed
+[2025.02.25-18.11.49:383][340]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Weapons/BP_WeaponPickUp_Parent.BP_WeaponPickUp_Parent
+[2025.02.25-18.11.53:661][831]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-18.11.53:661][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.11.53:712][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.02.25-18.11.58:273][244]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Weapons/BP_Starter_Weapon.BP_Starter_Weapon
+[2025.02.25-18.12.18:043][583]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-18.12.18:043][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.12.18:102][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.02.25-18.12.50:514][169]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_sniper.BP_sniper
+[2025.02.25-18.12.54:205][427]LogSlate: Window 'BP_sniper' being destroyed
+[2025.02.25-18.12.59:341][ 42]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4339.833984
+[2025.02.25-18.12.59:476][ 58]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.25-18.12.59:476][ 58]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4339.960449, Update Interval: 350.177917
+[2025.02.25-18.13.33:047][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.25-18.13.33:138][ 19]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StudentWork/Weekly_tasks_work/Blueprints/BP_sniper] ([2] browsable assets)...
+[2025.02.25-18.13.33:138][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Weekly_tasks_work/Blueprints/BP_sniper]
+[2025.02.25-18.13.33:142][ 19]LogSavePackage: Moving output files for package: /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_sniper
+[2025.02.25-18.13.33:142][ 19]LogSavePackage: Moving '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_sniperB3A571E94EA5EE34A3A54D8F4BD7B872.tmp' to '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/Weekly_tasks_work/Blueprints/BP_sniper.uasset'
+[2025.02.25-18.13.33:152][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.044 ms (total: 4.93 sec)
+[2025.02.25-18.13.33:230][ 19]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.25-18.13.33:230][ 19]LogContentValidation: Enabled validators:
+[2025.02.25-18.13.33:230][ 19]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.25-18.13.33:230][ 19]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.25-18.13.33:230][ 19]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.25-18.13.33:230][ 19]LogContentValidation: Display: Validating asset /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_sniper.BP_sniper
+[2025.02.25-18.13.33:230][ 19]AssetCheck: /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_sniper Validating asset
+[2025.02.25-18.13.33:791][ 82]LogBlueprint: Warning: [AssetLog] C:\Users\ClassyXpert\Documents\GitHub\Learning-unreal-engine--Staffs-uni---Mechanics-\Content\StudentWork\Weekly_tasks_work\Blueprints\BP_sniper.uasset: [Compiler] Could not find a variable named "FirePoint" in '/Game/StudentWork/Weekly_tasks_work/Blueprints/BP_sniper.BP_sniper_C'.
+Make sure '/Game/StudentWork/Weekly_tasks_work/Blueprints/BP_sniper.BP_sniper_C' has been compiled for  Get FirePoint
+[2025.02.25-18.13.33:791][ 82]LogBlueprint: Error: [AssetLog] C:\Users\ClassyXpert\Documents\GitHub\Learning-unreal-engine--Staffs-uni---Mechanics-\Content\StudentWork\Weekly_tasks_work\Blueprints\BP_sniper.uasset: [Compiler] The property associated with  Fire Point  could not be found in '/Game/StudentWork/Weekly_tasks_work/Blueprints/BP_sniper.BP_sniper_C'
+[2025.02.25-18.13.33:842][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.02.25-18.13.35:183][235]LogBlueprint: Warning: [AssetLog] C:\Users\ClassyXpert\Documents\GitHub\Learning-unreal-engine--Staffs-uni---Mechanics-\Content\StudentWork\Weekly_tasks_work\Blueprints\BP_sniper.uasset: [Compiler] Could not find a variable named "FirePoint" in '/Game/StudentWork/Weekly_tasks_work/Blueprints/BP_sniper.BP_sniper_C'.
+Make sure '/Game/StudentWork/Weekly_tasks_work/Blueprints/BP_sniper.BP_sniper_C' has been compiled for  Get FirePoint
+[2025.02.25-18.13.35:184][235]LogBlueprint: Error: [AssetLog] C:\Users\ClassyXpert\Documents\GitHub\Learning-unreal-engine--Staffs-uni---Mechanics-\Content\StudentWork\Weekly_tasks_work\Blueprints\BP_sniper.uasset: [Compiler] The property associated with  Fire Point  could not be found in '/Game/StudentWork/Weekly_tasks_work/Blueprints/BP_sniper.BP_sniper_C'
+[2025.02.25-18.13.35:225][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.25-18.14.30:930][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.02.25-18.14.33:829][ 90]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.25-18.14.33:845][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.25-18.14.33:883][ 90]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.02.25-18.14.33:948][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064940s)
+[2025.02.25-18.14.33:948][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.064970s)
+[2025.02.25-18.14.33:977][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.02.25-18.14.33:979][ 90]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.02.25-18.14.33:980][ 90]LogPlayLevel: PIE: World Init took: (0.001263s)
+[2025.02.25-18.14.34:016][ 90]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.02.25-18.14.34:016][ 90]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.25-18.14.34:016][ 90]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.25-18.14.34:016][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.25-18.14.34:016][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.25-18.14.34:016][ 90]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.25-18.14.34:016][ 90]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.25-18.14.34:016][ 90]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.25-18.14.34:016][ 90]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.25-18.14.34:016][ 90]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.25-18.14.34:016][ 90]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.25-18.14.34:016][ 90]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.25-18.14.34:017][ 90]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.25-18.14.34:030][ 90]LogAudioMixer: Display: Using Audio Hardware Device 27G2WG3- (NVIDIA High Definition Audio)
+[2025.02.25-18.14.34:031][ 90]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.25-18.14.34:031][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.25-18.14.34:031][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.25-18.14.34:031][ 90]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.02.25-18.14.34:031][ 90]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.02.25-18.14.34:033][ 90]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.02.25-18.14.34:033][ 90]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.02.25-18.14.34:033][ 90]LogInit: FAudioDevice initialized with ID 3.
+[2025.02.25-18.14.34:033][ 90]LogAudio: Display: Audio Device (ID: 3) registered with world 'StartMap'.
+[2025.02.25-18.14.34:033][ 90]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.02.25-18.14.34:035][ 90]LogLoad: Game class is 'MechGameMode_C'
+[2025.02.25-18.14.34:065][ 90]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.02.25-18.14.34
+[2025.02.25-18.14.34:068][ 90]LogWorld: Bringing up level for play took: 0.032993
+[2025.02.25-18.14.34:070][ 90]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.02.25-18.14.34:073][ 90]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.02.25-18.14.34:073][ 90]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.02.25-18.14.34:107][ 90]PIE: Server logged in
+[2025.02.25-18.14.34:107][ 90]PIE: Play in editor total start time 0.272 seconds.
+[2025.02.25-18.14.41:038][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.25-18.14.41:038][621]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.02.25-18.14.41:040][621]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-18.14.41:047][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.14.41:048][621]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.02.25-18.14.41:048][621]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.02.25-18.14.41:050][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.25-18.14.41:056][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.14.41:081][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.25-18.14.41:085][621]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.02.25-18.14.41:085][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.02.25-18.14.41:086][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.02.25-18.14.41:100][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.02.25-18.14.41:164][622]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.02.25-18.15.44:768][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.25-18.16.20:217][841]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.25-18.16.20:308][841]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StudentWork/Weekly_tasks_work/Blueprints/BP_sniper] ([2] browsable assets)...
+[2025.02.25-18.16.20:308][841]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Weekly_tasks_work/Blueprints/BP_sniper]
+[2025.02.25-18.16.20:312][841]LogSavePackage: Moving output files for package: /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_sniper
+[2025.02.25-18.16.20:313][841]LogSavePackage: Moving '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_sniper591BBA794AEA6893420A07BA969F16C8.tmp' to '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/Weekly_tasks_work/Blueprints/BP_sniper.uasset'
+[2025.02.25-18.16.20:322][841]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.658 ms (total: 5.03 sec)
+[2025.02.25-18.16.20:405][841]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.25-18.16.20:405][841]LogContentValidation: Enabled validators:
+[2025.02.25-18.16.20:405][841]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.25-18.16.20:405][841]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.25-18.16.20:405][841]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.25-18.16.20:405][841]LogContentValidation: Display: Validating asset /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_sniper.BP_sniper
+[2025.02.25-18.16.20:405][841]AssetCheck: /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_sniper Validating asset
+[2025.02.25-18.16.21:547][969]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-18.16.21:547][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.16.21:597][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.25-18.16.24:442][306]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.02.25-18.16.24:442][306]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-18.16.24:442][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.16.24:489][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.25-18.16.26:460][493]LogEditorViewport: Clicking Background
+[2025.02.25-18.17.01:570][  6]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_SniperProjectile.BP_SniperProjectile
+[2025.02.25-18.17.07:005][633]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-18.17.07:005][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.17.07:049][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.02.25-18.17.13:396][153]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_ShotgunProjectile.BP_ShotgunProjectile
+[2025.02.25-18.17.15:131][263]LogSlate: Window 'BP_ShotgunProjectile' being destroyed
+[2025.02.25-18.17.21:702][844]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_HeavyCanon_Projectile.BP_HeavyCanon_Projectile
+[2025.02.25-18.18.16:793][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.02.25-18.18.18:065][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.02.25-18.18.19:103][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.25-18.18.19:107][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.25-18.18.19:317][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.02.25-18.18.19:579][591]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.02.25-18.18.19:579][591]LogSavePackage: Moving '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/StartMapDEF4B01545EB1D28FBCC0C80A2BD9C8B.tmp' to '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StartMap.umap'
+[2025.02.25-18.18.19:591][591]LogFileHelpers: All files are already saved.
+[2025.02.25-18.18.19:591][591]LogFileHelpers: Saving map 'StartMap' took 0.322
+[2025.02.25-18.18.19:591][591]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/Weekly_tasks_work/Blueprints/BP_HeavyCanon_Projectile] ([2] browsable assets)...
+[2025.02.25-18.18.19:624][591]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_HeavyCanon_Projectile.BP_HeavyCanon_Projectile]
+[2025.02.25-18.18.19:624][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Weekly_tasks_work/Blueprints/BP_HeavyCanon_Projectile]
+[2025.02.25-18.18.19:630][591]LogSavePackage: Moving output files for package: /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_HeavyCanon_Projectile
+[2025.02.25-18.18.19:630][591]LogSavePackage: Moving '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_HeavyCanon_Projectile2BFA97E74FD8546FDB1797AF1E2FFEB4.tmp' to '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/Weekly_tasks_work/Blueprints/BP_HeavyCanon_Projectile.uasset'
+[2025.02.25-18.18.19:631][591]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/Weekly_tasks_work/Blueprints/BP_ShotgunProjectile] ([2] browsable assets)...
+[2025.02.25-18.18.19:636][591]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_ShotgunProjectile.BP_ShotgunProjectile]
+[2025.02.25-18.18.19:636][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Weekly_tasks_work/Blueprints/BP_ShotgunProjectile]
+[2025.02.25-18.18.19:639][591]LogSavePackage: Moving output files for package: /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_ShotgunProjectile
+[2025.02.25-18.18.19:639][591]LogSavePackage: Moving '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/BP_ShotgunProjectileE0DFA5704D63B11253E472BD9492920B.tmp' to '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StudentWork/Weekly_tasks_work/Blueprints/BP_ShotgunProjectile.uasset'
+[2025.02.25-18.18.19:649][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 541.623 ms (total: 5.58 sec)
+[2025.02.25-18.18.19:749][591]LogContentValidation: Display: Starting to validate 3 assets
+[2025.02.25-18.18.19:749][591]LogContentValidation: Enabled validators:
+[2025.02.25-18.18.19:749][591]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.25-18.18.19:749][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.25-18.18.19:749][591]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.25-18.18.19:749][591]LogContentValidation: Display: Validating asset /Game/StartMap.StartMap
+[2025.02.25-18.18.19:750][591]AssetCheck: /Game/StartMap Validating asset
+[2025.02.25-18.18.19:750][591]LogContentValidation: Display: Validating asset /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_HeavyCanon_Projectile.BP_HeavyCanon_Projectile
+[2025.02.25-18.18.19:750][591]AssetCheck: /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_HeavyCanon_Projectile Validating asset
+[2025.02.25-18.18.19:750][591]LogContentValidation: Display: Validating asset /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_ShotgunProjectile.BP_ShotgunProjectile
+[2025.02.25-18.18.19:750][591]AssetCheck: /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_ShotgunProjectile Validating asset
+[2025.02.25-18.19.45:912][678]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4746.349609
+[2025.02.25-18.19.46:912][681]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.25-18.19.46:912][681]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4747.016113, Update Interval: 310.763275
+[2025.02.25-18.20.20:646][260]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_ShotgunPickup.BP_ShotgunPickup_C
+[2025.02.25-18.20.20:646][260]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_ShotgunPickup.BP_ShotgunPickup_C
+[2025.02.25-18.20.20:649][260]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_ShotgunPickup.BP_ShotgunPickup as actor: BP_ShotgunPickup_C /Game/StartMap.StartMap:PersistentLevel.BP_ShotgunPickup_C_0
+[2025.02.25-18.20.20:651][260]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_ShotgunPickup.BP_ShotgunPickup as actor: BP_ShotgunPickup_C /Game/StartMap.StartMap:PersistentLevel.BP_ShotgunPickup_C_0
+[2025.02.25-18.20.21:330][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.02.25-18.20.21:331][312]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.02.25-18.20.21:340][312]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_ShotgunPickup.BP_ShotgunPickup_C
+[2025.02.25-18.20.21:340][312]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_ShotgunPickup.BP_ShotgunPickup_C
+[2025.02.25-18.20.21:343][312]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_ShotgunPickup.BP_ShotgunPickup as actor: BP_ShotgunPickup_C /Game/StartMap.StartMap:PersistentLevel.BP_ShotgunPickup_C_4
+[2025.02.25-18.20.21:344][312]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_ShotgunPickup.BP_ShotgunPickup as actor: BP_ShotgunPickup_C /Game/StartMap.StartMap:PersistentLevel.BP_ShotgunPickup_C_4
+[2025.02.25-18.20.28:128][802]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_HeavyCanonPickup.BP_HeavyCanonPickup_C
+[2025.02.25-18.20.28:128][802]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_HeavyCanonPickup.BP_HeavyCanonPickup_C
+[2025.02.25-18.20.28:130][802]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_HeavyCanonPickup.BP_HeavyCanonPickup as actor: BP_HeavyCanonPickup_C /Game/StartMap.StartMap:PersistentLevel.BP_HeavyCanonPickup_C_0
+[2025.02.25-18.20.28:132][802]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_HeavyCanonPickup.BP_HeavyCanonPickup as actor: BP_HeavyCanonPickup_C /Game/StartMap.StartMap:PersistentLevel.BP_HeavyCanonPickup_C_0
+[2025.02.25-18.20.33:243][805]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7045A00) on the [0x0000083585E33B80, 3D] queue has not completed after 5.000086 seconds.
+[2025.02.25-18.20.33:245][805]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A704C600) on the [0x0000083585E34180, Compute] queue has not completed after 5.000365 seconds.
+[2025.02.25-18.20.34:340][805]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000835A7043A80) on the [0x0000083585E34180, Compute] queue has not completed after 6.097172 seconds.
+[2025.02.25-18.20.34:475][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.25-18.20.34:479][806]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.02.25-18.20.34:488][806]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_HeavyCanonPickup.BP_HeavyCanonPickup_C
+[2025.02.25-18.20.34:488][806]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_HeavyCanonPickup.BP_HeavyCanonPickup_C
+[2025.02.25-18.20.34:492][806]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_HeavyCanonPickup.BP_HeavyCanonPickup as actor: BP_HeavyCanonPickup_C /Game/StartMap.StartMap:PersistentLevel.BP_HeavyCanonPickup_C_2
+[2025.02.25-18.20.34:494][806]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Weekly_tasks_work/Blueprints/BP_HeavyCanonPickup.BP_HeavyCanonPickup as actor: BP_HeavyCanonPickup_C /Game/StartMap.StartMap:PersistentLevel.BP_HeavyCanonPickup_C_2
+[2025.02.25-18.20.36:967][947]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.25-18.20.37:100][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.25-18.20.37:361][947]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.02.25-18.20.37:361][947]LogSavePackage: Moving '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Saved/StartMap0BF0FAAB4EB56A4E4D2D80B79A0CB476.tmp' to '../../../../../../Users/ClassyXpert/Documents/GitHub/Learning-unreal-engine--Staffs-uni---Mechanics-/Content/StartMap.umap'
+[2025.02.25-18.20.37:372][947]LogFileHelpers: All files are already saved.
+[2025.02.25-18.20.37:372][947]LogFileHelpers: Saving map 'StartMap' took 0.318
+[2025.02.25-18.20.37:381][947]LogFileHelpers: InternalPromptForCheckoutAndSave took 413.905 ms (total: 5.99 sec)
+[2025.02.25-18.20.37:475][947]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.25-18.20.37:475][947]LogContentValidation: Enabled validators:
+[2025.02.25-18.20.37:475][947]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.25-18.20.37:475][947]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.25-18.20.37:475][947]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.25-18.20.37:475][947]LogContentValidation: Display: Validating asset /Game/StartMap.StartMap
+[2025.02.25-18.20.37:477][947]AssetCheck: /Game/StartMap Validating asset
+[2025.02.25-18.20.39:544][116]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.25-18.20.39:560][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.25-18.20.39:560][116]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.02.25-18.20.39:625][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064712s)
+[2025.02.25-18.20.39:625][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.064740s)
+[2025.02.25-18.20.39:649][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.25-18.20.39:650][116]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.02.25-18.20.39:651][116]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2025.02.25-18.20.39:684][116]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.02.25-18.20.39:684][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.25-18.20.39:684][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.25-18.20.39:684][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.25-18.20.39:684][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.25-18.20.39:684][116]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.25-18.20.39:684][116]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.25-18.20.39:684][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.25-18.20.39:684][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.25-18.20.39:684][116]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.25-18.20.39:684][116]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.25-18.20.39:684][116]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.25-18.20.39:685][116]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.25-18.20.39:699][116]LogAudioMixer: Display: Using Audio Hardware Device 27G2WG3- (NVIDIA High Definition Audio)
+[2025.02.25-18.20.39:699][116]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.25-18.20.39:699][116]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.25-18.20.39:699][116]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.25-18.20.39:699][116]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.02.25-18.20.39:699][116]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.02.25-18.20.39:700][116]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.02.25-18.20.39:700][116]LogInit: FAudioDevice initialized with ID 4.
+[2025.02.25-18.20.39:700][116]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.02.25-18.20.39:700][116]LogAudio: Display: Audio Device (ID: 4) registered with world 'StartMap'.
+[2025.02.25-18.20.39:700][116]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.02.25-18.20.39:702][116]LogLoad: Game class is 'MechGameMode_C'
+[2025.02.25-18.20.39:732][116]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.02.25-18.20.39
+[2025.02.25-18.20.39:736][116]LogWorld: Bringing up level for play took: 0.033148
+[2025.02.25-18.20.39:738][116]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2025.02.25-18.20.39:741][116]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.02.25-18.20.39:741][116]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.02.25-18.20.39:773][116]PIE: Server logged in
+[2025.02.25-18.20.39:774][116]PIE: Play in editor total start time 0.223 seconds.
+[2025.02.25-18.21.02:098][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.25-18.21.02:098][ 31]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.02.25-18.21.02:100][ 31]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-18.21.02:107][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.21.02:107][ 31]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.02.25-18.21.02:107][ 31]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.02.25-18.21.02:110][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.25-18.21.02:115][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.21.02:142][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.25-18.21.02:147][ 31]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.02.25-18.21.02:147][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.02.25-18.21.02:149][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.02.25-18.21.02:165][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.02.25-18.21.02:244][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2025.02.25-18.21.38:005][222]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.25-18.21.38:021][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.25-18.21.38:021][222]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.02.25-18.21.38:087][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065542s)
+[2025.02.25-18.21.38:087][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.065569s)
+[2025.02.25-18.21.38:113][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.25-18.21.38:116][222]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.02.25-18.21.38:117][222]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2025.02.25-18.21.38:151][222]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.02.25-18.21.38:151][222]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.25-18.21.38:151][222]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.25-18.21.38:151][222]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.25-18.21.38:151][222]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.25-18.21.38:151][222]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.25-18.21.38:151][222]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.25-18.21.38:151][222]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.25-18.21.38:151][222]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.25-18.21.38:151][222]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.25-18.21.38:151][222]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.25-18.21.38:151][222]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.25-18.21.38:152][222]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.25-18.21.38:165][222]LogAudioMixer: Display: Using Audio Hardware Device 27G2WG3- (NVIDIA High Definition Audio)
+[2025.02.25-18.21.38:165][222]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.25-18.21.38:165][222]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.25-18.21.38:165][222]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.25-18.21.38:166][222]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.02.25-18.21.38:166][222]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.02.25-18.21.38:167][222]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.02.25-18.21.38:167][222]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.02.25-18.21.38:167][222]LogInit: FAudioDevice initialized with ID 5.
+[2025.02.25-18.21.38:167][222]LogAudio: Display: Audio Device (ID: 5) registered with world 'StartMap'.
+[2025.02.25-18.21.38:167][222]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.02.25-18.21.38:169][222]LogLoad: Game class is 'MechGameMode_C'
+[2025.02.25-18.21.38:198][222]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.02.25-18.21.38
+[2025.02.25-18.21.38:202][222]LogWorld: Bringing up level for play took: 0.032818
+[2025.02.25-18.21.38:204][222]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2025.02.25-18.21.38:207][222]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.02.25-18.21.38:207][222]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.02.25-18.21.38:240][222]PIE: Server logged in
+[2025.02.25-18.21.38:241][222]PIE: Play in editor total start time 0.228 seconds.
+[2025.02.25-18.21.46:349][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.25-18.21.46:349][918]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.02.25-18.21.46:350][918]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-18.21.46:357][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.21.46:357][918]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.02.25-18.21.46:357][918]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.02.25-18.21.46:360][918]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.25-18.21.46:365][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.21.46:389][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.25-18.21.46:394][918]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.02.25-18.21.46:394][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.02.25-18.21.46:396][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.02.25-18.21.46:409][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.02.25-18.21.46:488][919]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2025.02.25-18.21.58:311][997]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.25-18.21.58:325][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.25-18.21.58:325][997]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.02.25-18.21.58:390][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064628s)
+[2025.02.25-18.21.58:390][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.064656s)
+[2025.02.25-18.21.58:419][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.25-18.21.58:422][997]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.02.25-18.21.58:423][997]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2025.02.25-18.21.58:456][997]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.02.25-18.21.58:456][997]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.25-18.21.58:456][997]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.25-18.21.58:456][997]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.25-18.21.58:456][997]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.25-18.21.58:456][997]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.25-18.21.58:456][997]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.25-18.21.58:456][997]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.25-18.21.58:456][997]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.25-18.21.58:456][997]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.25-18.21.58:456][997]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.25-18.21.58:456][997]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.25-18.21.58:457][997]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.25-18.21.58:469][997]LogAudioMixer: Display: Using Audio Hardware Device 27G2WG3- (NVIDIA High Definition Audio)
+[2025.02.25-18.21.58:470][997]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.25-18.21.58:470][997]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.25-18.21.58:470][997]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.25-18.21.58:470][997]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.02.25-18.21.58:470][997]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.02.25-18.21.58:471][997]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.02.25-18.21.58:471][997]LogInit: FAudioDevice initialized with ID 6.
+[2025.02.25-18.21.58:471][997]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.02.25-18.21.58:471][997]LogAudio: Display: Audio Device (ID: 6) registered with world 'StartMap'.
+[2025.02.25-18.21.58:471][997]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.02.25-18.21.58:474][997]LogLoad: Game class is 'MechGameMode_C'
+[2025.02.25-18.21.58:504][997]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.02.25-18.21.58
+[2025.02.25-18.21.58:507][997]LogWorld: Bringing up level for play took: 0.033381
+[2025.02.25-18.21.58:509][997]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2025.02.25-18.21.58:512][997]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.02.25-18.21.58:512][997]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.02.25-18.21.58:544][997]PIE: Server logged in
+[2025.02.25-18.21.58:545][997]PIE: Play in editor total start time 0.228 seconds.
+[2025.02.25-18.22.21:390][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.25-18.22.21:390][ 10]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.02.25-18.22.21:392][ 10]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-18.22.21:397][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.22.21:398][ 10]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.02.25-18.22.21:398][ 10]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.02.25-18.22.21:401][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.25-18.22.21:406][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.22.21:437][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.25-18.22.21:441][ 10]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.02.25-18.22.21:441][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.02.25-18.22.21:442][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.02.25-18.22.21:457][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.02.25-18.22.21:535][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.02.25-18.25.30:348][221]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5090.793945
+[2025.02.25-18.25.31:349][224]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.25-18.25.31:349][224]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5091.461426, Update Interval: 300.964996
+[2025.02.25-18.31.27:071][291]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5447.534668
+[2025.02.25-18.31.28:071][294]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.25-18.31.28:071][294]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5448.201172, Update Interval: 325.199738
