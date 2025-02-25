@@ -1929,3 +1929,102 @@ Make sure '/Game/StudentWork/Weekly_tasks_work/Blueprints/BP_sniper.BP_sniper_C'
 [2025.02.25-18.35.45:326][413]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.25-18.35.45:326][413]LogContentValidation: Display: Validating asset /Game/StartMap.StartMap
 [2025.02.25-18.35.45:326][413]AssetCheck: /Game/StartMap Validating asset
+[2025.02.25-18.36.51:947][978]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.25-18.36.51:963][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.25-18.36.51:963][978]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.02.25-18.36.52:030][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065604s)
+[2025.02.25-18.36.52:030][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.065632s)
+[2025.02.25-18.36.52:051][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.25-18.36.52:054][978]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.02.25-18.36.52:055][978]LogPlayLevel: PIE: World Init took: (0.001118s)
+[2025.02.25-18.36.52:089][978]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.02.25-18.36.52:089][978]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.25-18.36.52:089][978]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.25-18.36.52:089][978]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.25-18.36.52:089][978]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.25-18.36.52:089][978]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.25-18.36.52:089][978]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.25-18.36.52:089][978]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.25-18.36.52:089][978]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.25-18.36.52:089][978]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.25-18.36.52:089][978]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.25-18.36.52:089][978]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.25-18.36.52:090][978]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.25-18.36.52:103][978]LogAudioMixer: Display: Using Audio Hardware Device 27G2WG3- (NVIDIA High Definition Audio)
+[2025.02.25-18.36.52:103][978]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.25-18.36.52:103][978]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.25-18.36.52:103][978]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.25-18.36.52:104][978]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.02.25-18.36.52:104][978]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.02.25-18.36.52:105][978]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.02.25-18.36.52:105][978]LogInit: FAudioDevice initialized with ID 8.
+[2025.02.25-18.36.52:105][978]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.02.25-18.36.52:105][978]LogAudio: Display: Audio Device (ID: 8) registered with world 'StartMap'.
+[2025.02.25-18.36.52:105][978]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.02.25-18.36.52:148][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.25-18.36.52:148][978]LogLoad: Game class is 'MechGameMode_C'
+[2025.02.25-18.36.52:182][978]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.02.25-18.36.52
+[2025.02.25-18.36.52:186][978]LogWorld: Bringing up level for play took: 0.036886
+[2025.02.25-18.36.52:187][978]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2025.02.25-18.36.52:191][978]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.02.25-18.36.52:191][978]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.02.25-18.36.52:226][978]PIE: Server logged in
+[2025.02.25-18.36.52:228][978]PIE: Play in editor total start time 0.274 seconds.
+[2025.02.25-18.37.13:695][775]LogBlueprintUserMessages: [WBP_PickUpNotification_C_0] dead
+[2025.02.25-18.37.35:218][766]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5815.677734
+[2025.02.25-18.37.35:352][774]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.25-18.37.35:352][774]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5815.793945, Update Interval: 358.044373
+[2025.02.25-18.38.31:353][233]LogBlueprintUserMessages: [WBP_PickUpNotification_C_1] dead
+[2025.02.25-18.38.56:903][926]LogBlueprintUserMessages: [WBP_PickUpNotification_C_2] dead
+[2025.02.25-18.40.25:335][934]LogBlueprintUserMessages: [WBP_PickUpNotification_C_3] dead
+[2025.02.25-18.42.37:996][245]LogBlueprintUserMessages: [WBP_PickUpNotification_C_4] dead
+[2025.02.25-18.44.33:067][ 36]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6233.533691
+[2025.02.25-18.44.33:201][ 52]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.25-18.44.33:201][ 52]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6233.658203, Update Interval: 303.222748
+[2025.02.25-18.44.34:390][195]LogBlueprintUserMessages: [WBP_PickUpNotification_C_5] dead
+[2025.02.25-18.47.23:275][730]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(957)]!
+[2025.02.25-18.47.23:275][730]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2025.02.25-18.47.23:275][730]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2025.02.25-18.47.25:632][939]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/StartMap"
+[2025.02.25-18.47.25:632][939]LogNet: Browse: /Game/StartMap
+[2025.02.25-18.47.25:632][939]LogLoad: LoadMap: /Game/StartMap
+[2025.02.25-18.47.25:632][939]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.02.25-18.47.25:640][939]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-18.47.25:648][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.47.25:649][939]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.02.25-18.47.25:649][939]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.02.25-18.47.25:672][939]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.25-18.47.25:686][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.02.25-18.47.25:690][939]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.02.25-18.47.25:755][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064652s)
+[2025.02.25-18.47.25:755][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.064693s)
+[2025.02.25-18.47.25:755][939]LogAudio: Display: Audio Device (ID: 8) registered with world 'StartMap'.
+[2025.02.25-18.47.25:755][939]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.02.25-18.47.25:756][939]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2025.02.25-18.47.25:756][939]LogLoad: Game class is 'MechGameMode_C'
+[2025.02.25-18.47.25:784][939]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.02.25-18.47.25
+[2025.02.25-18.47.25:788][939]LogWorld: Bringing up level for play took: 0.031126
+[2025.02.25-18.47.25:791][939]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockAlways
+[2025.02.25-18.47.25:791][939]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2025.02.25-18.47.25:792][939]LogLoad: Took 0.159309 seconds to LoadMap(/Game/UEDPIE_0_StartMap)
+[2025.02.25-18.47.25:792][939]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/UEDPIE_0_StartMap
+[2025.02.25-18.47.40:399][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.25-18.47.40:399][157]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.02.25-18.47.40:399][157]LogSlate: Window 'Mechanics Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.02.25-18.47.40:409][157]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-18.47.40:416][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.47.40:417][157]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.02.25-18.47.40:417][157]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.02.25-18.47.40:419][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.25-18.47.40:424][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-18.47.40:465][157]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.02.25-18.47.40:465][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.02.25-18.47.40:467][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.02.25-18.47.40:486][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.02.25-18.47.40:561][158]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2025.02.25-18.50.33:680][115]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6594.160156
+[2025.02.25-18.50.34:679][118]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.25-18.50.34:679][118]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6594.827148, Update Interval: 309.552917
+[2025.02.25-18.56.26:055][172]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6946.560059
+[2025.02.25-18.56.27:056][175]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.25-18.56.27:056][175]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6947.227051, Update Interval: 315.818970
